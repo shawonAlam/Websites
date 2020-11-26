@@ -1,0 +1,403 @@
+*
+{
+    margin: 0;
+}
+.bannerImg
+{
+    background-image: url(../image/backImg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    text-align: center;
+    padding: 40px;
+}
+.bannerImg>h1
+{
+    color:orange;
+    font-size:50px ;
+    font-weight:100 ;
+    padding-top:100px ;
+}
+.bannerImg>h5
+{
+    color: white;
+    font-size:50px ;
+    font-weight: 100;
+    padding: 10px;
+    padding-top: 2px;
+}
+.btn1
+{
+    background-color:orange;
+    border:none;
+    padding: 12px 16px;
+    border-radius: 25px;
+}
+.btn1>a
+{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.btn2
+{
+    background-color:black;
+    border:none;
+    padding: 12px 16px;
+    border-radius: 25px;
+}
+.btn2>a
+{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.article
+{
+    padding: 60px;
+}
+.article>h1
+{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 38px;
+    font-weight: 700;
+    padding:10px ;
+}
+.article>p
+{
+    text-align: center;
+    color:black;
+    font-size: 19px;
+    font-weight: 100;
+    padding:10px ;
+}
+/****parcentage bar start****/
+.box
+{
+    padding: 60px;
+}
+.leftBox, .rightBox
+{
+    border: 1px solid white;
+    background-color: white;
+    width: 49.5%;
+    display:inline-block;
+    vertical-align: top;
+}
+.center
+{
+    width: 40%;
+/*    position: absolute;
+    top:50%;
+    left:50%;*/
+    /*transform: translate(-50%, -50%);*/
+    padding: 20px;
+    background: white;
+    box-sizing:border-box;
+    /*box-shadow: 0 20px 60px rgb(0,0,0,.5);*/
+}
+.skillBox
+{
+    box-sizing:border-box;
+    width: 306px;
+    margin:20px 0 ;
+}
+.skillBox>p
+{
+    color: black;
+    text-transform:uppercase;
+    margin: -5px 5px 3px;
+    padding: 0;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.skillBox>p:nth-child(2)
+{
+    float: right;
+    position:relative;
+    top:-25px;
+}
+.skill
+{
+    background: white;
+    padding:5px ;
+    box-sizing: border-box;
+    border:1px solid white ;
+    border-radius: 20px;
+}
+.skillLevel
+{
+    background:orange ;
+    width:293px ;
+    height: 8px;
+}
+/****parcentage bar end****/
+
+.box2
+{
+    padding: 60px;
+}
+.box2>h1
+{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 38px;
+    font-weight: 700;
+    padding:10px ;
+}
+.leftBox1, .middleBox, .rightBox1
+{
+    border: 1px solid white;
+    background-color: gray;
+    width: 32.5%;
+    display:inline-block;
+    vertical-align: top;
+}
+.center2
+{
+    padding: 20px;
+}
+
+.center2>h3
+{
+    text-align: center;
+    color: orange;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 12px;
+}
+.center2>p
+{
+    text-align: center;
+    color:black;
+    font-size: 19px;
+    font-weight: 100;
+    padding:10px ;
+}
+
+.box2btn
+{
+       background-color: orange;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 3px;
+    margin: 4px 190px;
+}
+.Btn>a
+{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+/****bannerImg2****/
+.bannerImg2
+{
+    background-image:url(../image/backImg2.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60px;
+    text-align: center;
+    padding: 55px;
+}
+.bannerImg2>h4
+{
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+    margin-bottom: 8px;
+    padding-top: 16px;
+}
+
+.teamMember
+{
+    padding: 60px;
+}
+.teamMember>h4
+{
+    color: black;
+    font-size: 35px;
+    font-weight: 300;
+    /* margin-bottom: 8px; */
+    margin: 8px;
+    /* padding-top: 16px; */
+    padding: 0px 381px;
+}
+.leftMember
+{
+    border: 1px solid orange;
+    /* background-color: gray; */
+    width: 21.5%;
+    display: inline-block;
+    vertical-align: top;
+    background-image: url(../image/maleIcon1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 154.4px;
+    text-align: center;
+    padding: 58px;
+}
+.middleMember
+{
+    border: 1px solid orange;
+    /* background-color: gray; */
+    width: 21.5%;
+    display: inline-block;
+    vertical-align: top;
+    background-image: url(../image/me.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 154.4px;
+    text-align: center;
+    padding: 58px;
+}
+.rightMember
+{
+    border: 1px solid orange;
+    /* background-color: gray; */
+    width: 21.5%;
+    display: inline-block;
+    vertical-align: top;
+    background-image: url(../image/femaleIcon1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 154.4px;
+    text-align: center;
+    padding: 58px;
+}
+.teamMember>h3
+{
+    text-align: center;
+    color: orange;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 12px;
+}
+.teamMember>p
+{
+    text-align: center;
+    color:black;
+    font-size: 19px;
+    font-weight: 100;
+    padding:10px ;
+}
+.memberBtn
+{
+    background-color: white;
+    border: 1.5px solid orange;
+    padding: 4px 17px;
+    border-radius: 8px;
+    margin: 1px 70px;
+}
+.memberBtn>a
+{
+    color:black;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 0px;
+}
+
+.info>h3
+{
+    text-align: center;
+    color: orange;
+    font-size: 25px;
+    font-weight: 700;
+    /* padding: 0px; */
+    margin: 223px 0px 0px 0px;
+}
+.info>p
+{
+    text-align: center;
+    color: black;
+    font-size: 19px;
+    font-weight: 100;
+    padding: 5px;
+    margin: 3px 0px;
+}
+
+/****conclusion****/
+.conclusion
+{
+    padding: 50px;
+    margin: 0px;
+}
+.conclusion>h1
+{
+    text-align: center;
+    color: black;
+    font-size: 38px;
+    font-weight: 500;
+    padding: 20px;
+    margin: 50px 0px -8px 0px;;
+}
+.conclusion>p
+{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 30px;
+    margin: 0px;
+}
+
+/*
+.lastDiv
+{
+    padding: 30px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    background-color: black;
+}
+*/
+.lastDiv
+{
+    /* padding: 30px 0px 0px 0px; */
+    /* margin: 0px 0px 0px 0px; */
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+.lastDiv>p>a
+{
+{
+    color:white;
+    font-size: 18px;
+    text-decoration: none;
+}
+}
+.lastDiv>p
+{
+        text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 12px 0px 15px 0px;
+    /* margin: -10px 0px 0px 0px;
+    
+}
+
+.lastDiv>a
+{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
