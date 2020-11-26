@@ -1,0 +1,4765 @@
+@media only screen and (min-width:320px) and (max-width:479px)
+ {  
+     .body
+     {
+         padding: 0px;
+         margin: 0px;
+     }
+     .blueNavBar
+     {
+         display: none;
+     }
+     .navBar
+     {
+        background-color: white;
+        width: 274%;
+        height: 1050px;
+        padding: 0px;
+     }
+    .navBarImg 
+     {
+        display: block;
+        float: none;
+     }
+     .navBarImg>img 
+    {
+        padding: 10px 228px;
+        height: 110px;
+        width: 421px;
+        display: block;
+        float: none;
+    }   
+     .navBarList 
+     {
+        display: block;
+        float: none;
+        text-align: center;
+        height: 914px;
+        width: 100%;
+     }
+     .navBarList>ul 
+     {
+        list-style: none;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+     .navBarList>ul>li 
+     {
+        float: none;
+        text-align: center;
+        padding: 10px;
+     }
+     .navBarList>ul>li>a 
+     {
+        padding: 12px 12px;
+        color: #337ab7;
+        text-decoration: none;
+        font-size: 51px;
+        font-weight: 700;
+     }
+     
+     .bannerF123 {
+        height: 2072px;
+        width: 284%;
+        width: 284%;
+    }
+    .displayFloat 
+    {     
+        left: 40%;
+        display: block;
+        float: none;
+        margin: auto;
+        width: 2000px;
+        text-align: center;
+        height: 1410px;
+    }
+     .F1, .F2, .F3 
+     {
+        height: 475px;
+        float: none;
+        display: block;
+
+     }
+     .F1 
+     {
+         background-color: #1abdb4;
+
+     }
+     .F123 
+     {
+        margin: 0px;
+        padding: 40px;
+
+     }
+     .image 
+     {
+        margin: auto;
+        padding: 0px;
+        height: 100px;
+        width: 100px;
+
+     }
+     .F123>h1 
+     {
+        color: white;
+        font-size: 55px;
+        font-weight: 500;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>p 
+     {
+        color: gainsboro;
+        font-size: 38px;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>button>a 
+     {
+        text-decoration: none;
+        padding: 4px 0px;
+        font-size: 36px;
+        color: white;
+        margin: -2px;
+
+     }
+     
+     .container>h1 
+     {
+        margin: 96px 200px;
+        padding: 0px;
+        font-size: 78px;
+        color: white;
+        font-weight: 600;
+        display: block;
+        text-align: center;
+        position: absolute;
+     }
+     .fisrtContainer 
+     {
+        height: 348px;
+    width: 908px;
+    padding: 30px 36px;
+    /* margin: auto; */
+    /* left: 38px; */
+    float: none;
+    display: block;
+    text-align: center;
+     }
+     .fisrtContainer>h4 
+     {
+        font-size: 30px;
+        color: #9f9da5;  
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>h1 
+     {
+        font-size: 81px;
+         font-weight: 500;
+        color: #1abdb4;
+         margin: auto;
+         padding: 0px;
+         text-align: center;
+     }
+     .fisrtContainer>img 
+     {
+        width: 422px;
+        height: 224px;
+        padding: 0px 0px 0px 0px;
+
+     }
+     .secondContainer 
+     {
+    height: 1914px;
+    width: 287%;
+    padding: 0px;
+     }
+     .C1, .C2, .C3 
+     {
+    float: none;
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 908px;
+
+     }
+     .commonContainer 
+     {
+    margin: auto;
+    display: block;
+    padding: 0px 0px;
+    height: 636px;
+    text-align: center;
+
+     }
+.commonContainer>img 
+     {
+    text-align: center;
+    height: 213px;
+    width: 266px;
+     }
+     .commonContainer>h1 
+     {
+    font-size: 56px;
+    font-weight: 600;
+    color: black;
+    margin: 10px 0px;
+    padding: 0px 0px;
+     }
+     .commonContainer>p 
+     {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0px 0px;
+    padding: 0px 0px;
+     }  
+     .backgroundBannerImg 
+     {
+    background-image: url(../image/backgroundDoctors.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 979px;
+    height: 555px;
+    position: relative;
+     }
+   .appointmentOverLay 
+     {
+    background-image: linear-gradient(to bottom right, #666ac5, #1f1f29);
+    height: 555px;
+    opacity: 0.48;
+    position: absolute;
+    width: 100%;
+     }
+     .getAppointment 
+     {
+    padding: 72px 0px;
+    position: absolute;
+     }
+     .getAppointment>img 
+     {
+    padding: 0px;
+    margin: auto;
+    display: block;
+    height: 120px;
+    width: 130px;
+     }
+     .appointmentOverLay
+     {
+         }
+     .getAppointment>h1 
+     
+     {
+    padding: 0px;
+    margin: 0px;
+    color: #ffffff;
+    font-size: 46px;
+    font-weight: 600;
+    text-align: center;
+    /* position: absolute; */
+
+     }
+     .getAppointment>p 
+     
+     {
+    margin: 0px;
+    color: #f9f9a9;
+    font-size: 32px;
+    font-weight: 200;
+    text-align: center;
+
+     }
+     .getAppointment>button 
+     {
+    padding: 15px;
+    margin: auto;
+    display: block;
+    border-radius: 15px;
+     }
+     .getAppointment>button>a 
+     {
+    padding: 0px;
+    margin: 0px;
+    color: #335cd4;
+    font-size: 29px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+     }
+     .department 
+     {
+    overflow: hidden;
+    padding: 0px 0px;
+    margin: 116px;
+    display: block;
+    float: none;
+    width: 750px;
+
+     }
+.leftDepartment 
+     {
+    height: 1130px;
+    width: 92%;
+    float: none;
+    display: block;
+    text-align: center;
+    border: 1px solid red;
+    background-color: #20247d;
+     }
+     .leftDepartment>h1 
+     {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+     }
+     .leftDepartment>ul 
+     {
+    float: none;
+    display: block;
+    text-align: center;
+    margin: auto;
+     }
+     .leftDepartment>ul>li 
+     {
+    font-weight: 400;
+    display: block;
+    float: none;
+/*    text-align: center;*/
+     }
+     .leftDepartmentList>li>a 
+     {
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 73px;
+    /* text-align: center; */
+    margin: 0px 0px;
+     }
+     .leftDepartment>ul>li>a>h3 
+     {
+    font-size: 34px;
+    font-weight: 400;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+     }
+     .leftDepartmentButton 
+     {
+    padding: 50px 0px 0px 84px;
+
+     }
+     .leftDepartmentButton>a 
+     {
+    padding: 15px 12px;
+    color: WHITE;
+    text-decoration: none;
+    font-size: 38px;
+    font-weight: 500;
+    border: 1px solid gray;
+     }
+     .rightDepartment
+{
+height: 1660px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+    width: 100%;
+}
+.rightDepertmentHeader
+{
+    margin: 0px;
+    padding: 30px 0px;
+    height: 181px;
+}
+.rightDepertmentHeader>h5
+{
+    padding: 0px;
+    margin: 0px;
+    color: gray;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+.rightDepertmentHeader>h1
+{
+padding: 0px;
+    margin: 0px;
+    color: #1abdb4;
+    font-size: 54px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.leftFloatBox, .rightFloatBox
+{
+    height: 730px;
+    display: block;
+    float: none;
+    width: 79%;
+}
+.commonFloat
+{
+  padding: 0px;
+    margin: 0px;
+    float: none;
+    /* position: relative; */
+    display: block;
+    /* margin: auto;*/
+}
+.commonFloat>img
+{
+    padding: 0px;
+    margin: 0px 0px;
+    height: 325px;
+    width: 752px;
+}
+.commonFloat>h1
+{
+        padding: 8px 0px 0px 0px;
+    margin: 0px;
+    color: #23b3b3;
+    font-size: 40px;
+    /* font-weight: 500; */
+    text-align: center;
+}
+.commonFloat>p
+{
+   padding: 0px 0px 10px 0px;
+    margin: 0px;
+    color: #827474;
+    font-size: 33px;
+    /* font-weight: 500; */
+    text-align: center;
+}
+.commonFloat>button
+{
+   padding: 5px 0px 5px 0px;
+    margin: 0px;
+    background-color: white;
+    border: 1px solid #23b3b3;
+    display: block;
+    float: none;
+    margin: auto;
+}
+.commonFloat>button>a
+{
+padding: 7px 15px 6px 12px;
+    margin: 0px;
+    color: #827474;
+    font-size: 38px;
+    /* font-weight: 500; */
+    text-decoration: none;
+    text-align: center;
+}
+     .commonFloat>button>a:hover
+{
+    background-color:#23b3b3;
+    color: white;
+}
+     
+     .prettyGirl
+{
+    padding: 0px;
+    margin: 0px 0px;
+    height: 500px;
+    width: 319px;
+}
+.leftSide, .rightSide
+{
+    height: 500px;
+    float: left;
+    width: 50%; 
+}
+.leftSide>img
+{
+    padding: 0px;
+    margin: 0px;
+    height: 500px;
+    width: 615%;
+    position: relative;
+}
+.rightSide
+{
+    background-color: #1e5292;
+}
+.commonRightSide
+{
+/*padding: 15px 7px;*/
+    margin: -94px -100px;
+    display: block;
+    float: none;
+    position: absolute;
+    width: 690px;
+}
+.commonRightSide>h5
+{
+    padding: 0px;
+    margin: 0px;
+    font-size: 28px;
+    /* font-weight: 500; */
+    color: #000000;
+    /* text-align: center;*/
+     }
+.commonRightSide>h1
+{
+    padding: 0px;
+    margin: 0px;
+    font-size: 58px;
+    /* font-weight: 500; */
+    color: #ffffffe3;
+}
+.commonRightSide>p
+{
+    padding: 12px 0px;
+    margin: 0px;
+    font-size: 31px;
+    /* font-weight: 500; */
+    color: #000000;
+}
+.commonRightSide>button
+{
+    padding: 16px 0px;
+/*     margin: 25px 20px; */
+    background-color: #23b3b3;
+/*     border: 1px solid #23b3b3; */
+    border: none;
+}
+
+.commonRightSide>button>a
+{
+padding: 7px 15px 6px 12px; */
+    margin: 0px;
+    color: white;
+    font-size: 27px;
+    /* font-weight: 500; */
+    text-decoration: none;
+    padding: 17px 38px;
+}
+    .doctors {
+/*    margin: 50px; */
+    padding: 0px;
+    /* overflow: hidden; */
+    height: 3966px;
+    width: 291%;
+}
+   .doctor1, .doctor2, .doctor3, .doctor4 {
+/*    margin: auto; */
+    /* padding: 0px; */
+    float: none;
+    display: block;
+    text-align: center;
+    width: 930px;
+}
+     .commonDoctor {
+/*        margin: 0px;*/
+    padding: 50px 50px;
+    /* border: 1px solid red; */
+    height: 936px;
+    /* display: block; */
+    margin: 0px 0px;
+    position: relative;
+}
+     .commonDoctor>img {
+    margin: 0px;
+    padding: 0px;
+    height: 590px;
+    width: 630px;
+}
+     
+     .commonDoctorsDetails {
+        /* padding: 28px 0px; */
+    text-align: center;
+    background-color: #1e58a0;
+    position: absolute;
+    display: block;
+    float: none;
+    margin: -8px 100px;
+    width: 630px;
+    /* text-align: center;*/
+}
+     .commonDoctorsDetails>h2 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 51px;
+    font-weight: 500;
+    color: white;
+}
+     .commonDoctorsDetails>p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 32px;
+    color: #ffffff8f;
+}
+     
+    .commonDoctorsDetails>h3 {
+    margin: 0px;
+    padding: 7px 0px;
+    font-size: 34px;
+    font-weight: 500;
+    /* border: 1px solid black; */
+    color: azure;
+}
+         /*start*/
+    .medipol
+    {
+/*    margin: auto; */
+    display: block;
+    float: none;
+    margin: 0px 200px;
+    /* padding: 0px 0px; */
+    height: 900px;
+    width: 630px;
+    background-color: #1e58a0;
+    }
+    .medi1
+    {
+    display: block;
+    float: none;
+    margin: 0px 0px 15px 0px;
+    text-align: center;
+        width: 90%;
+    }
+    .medi1>h3
+    {
+    margin: 0px;
+    padding: 0px;
+    font-size: 28px;
+    /* font-weight: 500; */
+    color: #b19d9d;
+    }
+    .medi1>h1
+    {
+    margin: 0px;
+    padding: 0px;
+    font-size: 44px;
+    /* font-weight: 500; */
+    color: white;
+    }
+
+    .medi2, .medi3, .medi4
+    {
+    display: block;
+    float: none;
+    margin: 50px 0px;
+        width: 83%;
+    }
+    .commoneMedi>h3
+    {
+    margin: 0px;
+    padding: 17px 0px;
+    font-size: 48px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    }
+    .commoneMedi>h1
+    {
+    margin: 0px;
+    padding: 0px;
+    font-size: 55px;
+    font-weight: 500;
+    color: white;
+    text-align: center
+    }
+     .cerasoulContainer
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    width: 306%;
+    height: 1700px;
+    /* left: 13%;*/
+}
+
+
+.leftContainer
+{
+/*    FONT-VARIANT: JIS04;*/
+    FONT-VARIANT: JIS04;
+    /* padding: 0px 0px; */
+    height: 783px;
+    width: 100%;
+    float: none;
+    display: block;
+    /* padding: 0px 29px; */
+    /* padding: 0px 59px; */
+    margin: 70px 0px;
+    box-shadow: 0px 1px 20px 0px #524848;
+}
+
+.commonContainer
+{
+    /* margin: 0px; */
+    display: block;
+    float: none;
+    margin: auto;
+    padding: 0px 0px;
+    height: 771px;
+    /* text-align: center; */
+}
+
+.commonContainer>img
+{
+    text-align: center;
+    height: 330px;
+    /* display: block; */
+    width: 348px;
+    /* margin: auto; */
+    /* padding: 0px 170px*/
+}
+.commonContainer>h1
+{
+/*text-align: center; */
+    font-size: 55px;
+    font-weight: 900;
+    color: black;
+    margin: 10px 0px;
+    padding: 0px 0px;
+
+}
+.commonContainer>h2
+{
+text-align: center;
+    font-size: 37px;
+    color: #1abdb4;
+    font-weight: 500;
+    margin: 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+.commonContainer>p
+{
+   text-align: center;
+    font-size: 35px;
+    font-weight: 500;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+    .rightContainer
+{
+/*    FONT-VARIANT: JIS04;*/
+    FONT-VARIANT: JIS04;
+    /* padding: 0px 0px; */
+    height: 783px;
+    width: 100%;
+    float: none;
+    display: block;
+    /* padding: 0px 29px; */
+    /* padding: 0px 59px; */
+    margin: 70px 0px;
+    box-shadow: 0px 1px 20px 0px #524848;
+}
+     
+    .straightLine
+     {
+         display: none;
+     }
+     
+         .logo
+    {
+       height: 2162px;
+    float: none;
+    display: block;
+    /* margin: auto; */
+    width: 306%;     
+    }
+
+    .logo1, .logo2, .logo3, .logo4, .logo5
+    {
+           display: block;
+    /* margin: auto; */
+    /* float: left; */
+    width: 72%;
+    padding: 0px 0px;
+        width: 96%;
+    }
+     .commonLogo
+     {
+         margin: 0px;
+         padding: 0px;
+         padding: 0px;
+     }
+    .commonLogo>img
+    {
+           height: 424px;
+    width: 104%;
+    }
+     .straightLine
+     {
+         display: none;
+     }
+   
+         .blueBox {
+        width: 306%;
+        background-color: #4575bd;
+        height: 5370px;
+    }
+         .blockBox {
+        /* display: block; */
+        /* margin: 0px 10%; */
+        width: 100%;
+             margin: 0px 0%;
+        /* border: 0.5px solid red; */
+    }
+         .firstRow
+    {
+        padding: 10px 0px 0px 0px;
+        width: 100%;
+        height: 1258px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .forAppointment
+    {
+           margin: auto;
+        float: none;
+        margin: auto;
+        /* width: 30%; */
+        height: 496px;
+    }
+
+
+    .firstRowCommonLogo
+    {
+        width: 130%;
+        /* height: 629px; */
+        padding-bottom: 0px;
+    }
+    .firstRowCommonLogo>img
+    {
+        width: 150px;
+        height: 200px;
+        display: block;
+        /* float: left; */
+        padding: 39px 93px;
+    }
+
+    .firstRowCommonLogo>h1
+    {
+    font-size: 48px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        display: block;
+        float: left;
+    }
+    .firstRowCommonLogo>h2
+    {
+    font-size: 46px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        /* margin-left: 25px; */
+        display: block;
+        /* float: left; */
+        /* margin-left: 24px; */
+        padding: 0px 0px 27px 0px;
+    }
+    .forShutterHealth
+    {
+        display: block;
+        float: none;
+        width: 20%;
+        height: 158px;
+        margin: auto;
+    }
+    .forShutterHealth>img
+    {
+            width: 490px;
+        height: 190px;
+        display: block;
+        float: none;
+        margin: 50px -140px;
+    }
+         .forWhatsapp
+    {
+       display: block;
+        float: none;
+        width: 30%;
+        margin: auto;
+        height: 469px;
+    }
+     
+       .firstStraightLine
+     {
+         display: none;
+     }
+     
+     
+    .secondRow
+    {
+        width: 100%;
+        height: 244px;
+        padding: 10px 0px 0px 0px;
+    }
+    .secondRowLeft, .secondRowRight
+    {
+            display: block;
+        float: none;
+        margin: auto;
+        width: 50%;
+        height: 120px;
+        padding: 58px 0px;
+    }
+
+    .secondRowLeftFirst
+    {
+       display: block;
+        float: none;
+        /* margin: 0px; */
+        width: 100%;
+        text-align: center;
+    }
+         .secondRowLeftFirst>h1
+    {
+        font-size: 34px;
+        font-weight: 600;
+        text-align: center;
+        display: block;
+        color: antiquewhite;
+        /* padding: 10px 0px 0px 0px; */
+    }
+
+    .secondRowLeftSecond 
+    {
+    display: block;
+        width: 100%;
+        height: 124px;
+        float: none;
+        /* margin: auto;*/
+    }
+
+    .logoList
+    {
+            list-style: none;
+        float: left;
+        display: block;
+        padding: 4px 3px;
+    }
+    .logoList>li
+    {
+        float: left;
+        padding: 0px 9px;
+
+    }
+    .logoList>li>a
+    {
+            display: block;
+        padding: 2px 15px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .logoList>li>a>img
+    {
+       padding: 10px 0px 0px 0px;
+        height: 78px;
+        width: 63px;
+    }
+    .secondRowRight
+         {
+             display: none;
+         }
+    .secondStraightLine
+    {
+        display: none;
+    }
+
+     
+.thirdRow
+{
+    height: 2930px;
+    margin: 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+
+
+
+.thirdRowBoxOne
+{
+        padding: 0px 0px 0px 0px;
+    margin: 0px 10px 0px 0px;
+    display: block;
+    float: none;
+    margin: auto;
+    width: 100%;
+    height: 530px;
+}
+.thirdRowBoxOne>h1
+{
+    color: white;
+    font-size: 115px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+.thirdRowBoxOne>h2
+{
+    color: white;
+    font-size: 62px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 0px 2px 0px;
+}
+.thirdRowBoxOne>p
+{
+        color: white;
+    font-size: 39px;
+    /* font-weight: 400; */
+    word-spacing: 1px;
+    text-align: center;
+    padding: 0px 0px 15px 0px;
+}
+.thirdRowBoxTwo
+{
+       padding: 0px 0px 0px 0px;
+    margin: 0px 10px 0px 0px;
+    display: block;
+    float: none;
+    margin: auto;
+/*    height: 1416px;*/
+    width: 100%;
+    
+     height: 2420px;
+    width: 100%;
+    /* float: left; */
+    display: block;
+}
+.thirdRowBoxTwo>h1
+{
+    color: white;
+    font-size: 115px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+}
+/**/
+/*
+.leftDepartmentList, .rightDepartmentList
+{
+    display: block;
+    width:40%;
+    float: left;  
+    
+}
+*/
+.leftDepartmentList
+{
+        padding: 0px 0px 0px 137px;
+    color: white;
+    height: auto;
+}
+
+.leftDepartmentList>li
+{
+        float: none;
+    /* display: block; */
+    padding: 1px 0px;
+    
+}
+.leftDepartmentList>li>a
+{
+        padding: 0px 0px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 73px;
+    /* text-align: center; */
+    margin: 0px 0px;
+}
+.leftDepartmentList>li>a:hover
+{
+    color: #1abdb4;
+}
+     .rightDepartmentList {
+    /* list-style: none; */
+    padding: 0px 0px 0px 137px;
+    color: white;
+}
+.rightDepartmentList>li
+{
+    float: left;
+    /* display: block; */
+    padding: 1px 0px;
+}
+.rightDepartmentList>li>a
+{
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 73px;
+}
+.rightDepartmentList>li>a:hover
+{
+    color: #1abdb4;
+}
+     .thirdRowBoxThree {
+    height: 760px;
+    width: 100%;
+    float: left;
+    display: block;
+}
+.thirdRowBoxThree>h1
+{
+    color: white;
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0px 0px 0px 8px;
+}
+.photoGallery>img
+{
+    float: left;
+    display: block;
+    width: 48%;
+    height: 210px;
+    padding: 8px;
+}
+.thirdStraightLine
+{
+   display: none;
+}
+.fourthRow
+{
+    padding: 8px 0px 0px 0px;
+    margin: 0px 0px;
+    height: 26px;
+    width: 100%;
+}
+.leftDiv, .rightDiv
+{
+    display: block;
+    float: none;
+    width: 100%;
+    /* text-align: center; */
+}
+.leftDiv>h2
+{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    word-spacing: 3px;
+    /* padding: 0px 0px 0px 8px; */
+}
+.rightDiv>h2
+{
+    color: white;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    word-spacing: 3px;
+    /* padding: 0px 0px 0px 8px; */
+}
+
+.rightDiv>h2>a
+{
+        color: orangered;
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+}
+
+/*/////////////end of 320x479/////////////*/
+
+@media only screen and (min-width:480px) and (max-width:766px)
+{  
+     .body
+     {
+         padding: 0px;
+         margin: 0px;
+     }
+     /****blueNavBar****/
+    .blueNavBar
+    {
+            display: none;
+    }
+     .navBar
+     {
+        background-color: white;
+        width: 190%;
+        height: 1050px;
+        padding: 0px;
+         margin: 0%;
+     }
+    .navBarImg 
+     {
+        display: block;
+        float: none;
+     }
+     .navBarImg>img 
+    {
+        padding: 10px 228px;
+        height: 110px;
+        width: 421px;
+        display: block;
+        float: none;
+    }   
+     .navBarList 
+     {
+        display: block;
+        float: none;
+        text-align: center;
+        height: 914px;
+        width: 100%;
+     }
+     .navBarList>ul 
+     {
+        list-style: none;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+     .navBarList>ul>li 
+     {
+        float: none;
+        text-align: center;
+        padding: 10px;
+     }
+     .navBarList>ul>li>a 
+     {
+        padding: 10px 12px;
+        color: #337ab7;
+        text-decoration: none;
+        font-size: 51px;
+        font-weight: 700;
+     }
+     .navBarList>ul>li>img
+     {
+        padding: 7px 12px 0px 0px;
+        /* margin: 10px; */
+        height: 63px;
+        width: 66px; 
+     }   
+     .bannerF123 {
+        height: 2072px;
+        width: 190%;
+    }
+    .displayFloat 
+    {     
+        display: block;
+        float: none;
+        /* margin: auto; */
+        width: 190%;
+        text-align: center;
+        height: 1410px;
+        left: 0%;
+    }
+     .F1, .F2, .F3 
+     {
+        height: 475px;
+        float: none;
+        display: block;
+         margin: auto;
+        width: 72%;
+
+     }
+     .F1 
+     {
+         background-color: #1abdb4;
+
+     }
+     .F123 
+     {
+        margin: 0px;
+        padding: 40px;
+
+     }
+     .image 
+     {
+        margin: auto;
+        padding: 0px;
+        height: 100px;
+        width: 100px;
+
+     }
+     .F123>h1 
+     {
+        color: white;
+        font-size: 55px;
+        font-weight: 500;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>p 
+     {
+        color: gainsboro;
+        font-size: 38px;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>button>a 
+     {
+        text-decoration: none;
+        padding: 4px 0px;
+        font-size: 36px;
+        color: white;
+        margin: -3px;
+
+     }
+     
+     .container>h1 
+     {
+        margin: 96px 200px;
+        padding: 0px;
+        font-size: 78px;
+        color: white;
+        font-weight: 600;
+        display: block;
+        text-align: center;
+        position: absolute;
+     }
+     .fisrtContainer 
+     {
+        height: 450px;
+        width: 836px;
+        padding: 30px 36px;
+        /* margin: auto; */
+        /* left: 38px; */
+        float: none;
+        display: block;
+        text-align: center;
+     }
+     .fisrtContainer>h4 
+     {
+        font-size: 30px;
+        color: #9f9da5;  
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>h1 
+     {
+        font-size: 81px;
+        font-weight: 500;
+        color: #1abdb4;
+        margin: auto;
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>img 
+     {
+        width: 422px;
+        height: 224px;
+        padding: 0px 0px 0px 0px;
+
+     }
+     .secondContainer 
+     {
+        height: 2283px;
+        width: 190%;
+        padding: 0px;
+     }
+     .C1, .C2, .C3 
+     {
+        float: none;
+        display: block;
+        margin: auto;
+        text-align: center;
+        width: 908px;
+
+     }
+     .commonContainer 
+     {
+        margin: auto;
+        display: block;
+        padding: 0px 0px;
+        height: 636px;
+        text-align: center;
+
+     }
+    .commonContainer>img 
+     {
+        text-align: center;
+        height: 213px;
+        width: 266px;
+     }
+     .commonContainer>h1 
+     {
+        font-size: 56px;
+        font-weight: 600;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+     }
+     .commonContainer>p 
+     {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+     }  
+     .backgroundBannerImg 
+     {
+        background-image: url(../image/backgroundDoctors.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 190%;
+        height: 555px;
+        position: relative;
+     }
+     .appointmentOverLay 
+     {
+        background-image: linear-gradient(to bottom right, #666ac5, #1f1f29);
+        height: 555px;
+        opacity: 0.48;
+        position: absolute;
+        width: 100%;
+     }
+     .getAppointment 
+     {
+        padding: 72px 0px;
+        position: absolute;
+     }
+     .getAppointment>img 
+     {
+        padding: 0px;
+        margin: auto;
+        display: block;
+        height: 120px;
+        width: 130px;
+     }
+     .appointmentOverLay
+     {
+         
+     }
+     .getAppointment>h1 
+     
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #ffffff;
+        font-size: 46px;
+        font-weight: 600;
+        text-align: center;
+        /* position: absolute; */
+
+     }
+     .getAppointment>p 
+     
+     {
+        margin: 0px;
+        color: #f9f9a9;
+        font-size: 32px;
+        font-weight: 200;
+        text-align: center;
+     }
+     .getAppointment>button 
+     {
+        padding: 15px;
+        margin: auto;
+        display: block;
+        border-radius: 15px;
+     }
+     .getAppointment>button>a 
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #335cd4;
+        font-size: 29px;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+     }
+     .department 
+     {
+        overflow: hidden;
+        padding: 0px 0px;
+        /* margin: 116px; */
+        display: block;
+        float: none;
+        width: 750px;
+        margin: 0px;
+        padding: 0px 80px;
+
+     }
+    .leftDepartment 
+     {
+        height: 1210px;
+        width: 80%;
+        margin: auto;
+        float: none;
+        display: block;
+        text-align: center;
+        /* border: 1px solid red; */
+        background-color: #20247d;
+     }
+     .leftDepartment>h1 
+     {
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+     }
+     .leftDepartment>ul 
+     {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: auto;
+        padding: 0px;
+     }
+     .leftDepartment>ul>li 
+     {
+        font-weight: 400;
+        display: block;
+        float: none;
+     }
+     .leftDepartmentList>li>a 
+     {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 73px;
+        margin: 0px 0px;
+     }
+     .leftDepartment>ul>li>a>h3 
+     {
+        font-size: 34px;
+        font-weight: 400;
+        color: white;
+        text-decoration: none;
+        text-align: left;
+     }
+     .leftDepartmentButton 
+     {
+        padding: 41px 0px 0px 0px;
+     }
+     .leftDepartmentButton>a 
+     {
+        padding: 15px 12px;
+        color: WHITE;
+        text-decoration: none;
+        font-size: 38px;
+        font-weight: 500;
+        border: 1px solid gray;
+     }
+     .rightDepartment
+    {
+        height: 1660px;
+        padding: 0px 0px 0px 0px;
+        float: left;
+        width: 100%;
+    }
+    .rightDepertmentHeader
+    {
+        margin: 0px;
+        padding: 30px 0px;
+        height: 181px;
+    }
+    .rightDepertmentHeader>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        color: gray;
+        font-size: 30px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .rightDepertmentHeader>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        color: #1abdb4;
+        font-size: 54px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .leftFloatBox, .rightFloatBox
+    {
+       height: 730px;
+        display: block;
+        float: none;
+        width: 100%;
+        padding: 0px;
+    }
+    .commonFloat
+    {
+      padding: 0px;
+        margin: 0px;
+        float: none;
+        /* position: relative; */
+        display: block;
+        /* margin: auto;*/
+    }
+    .commonFloat>img
+    {
+        padding: 0px;
+        margin: 0px 0px;
+        height: 325px;
+        width: 750px;
+    }
+    .commonFloat>h1
+    {
+            padding: 8px 0px 0px 0px;
+        margin: 0px;
+        color: #23b3b3;
+        font-size: 40px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>p
+    {
+       padding: 0px 0px 10px 0px;
+        margin: 0px;
+        color: #827474;
+        font-size: 33px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>button
+    {
+       padding: 5px 0px 5px 0px;
+        margin: 0px;
+        background-color: white;
+        border: 1px solid #23b3b3;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .commonFloat>button>a
+    {
+        padding: 7px 15px 6px 12px;
+        margin: 0px;
+        color: #827474;
+        font-size: 38px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        text-align: center;
+    }
+     .commonFloat>button>a:hover
+     {
+        background-color:#23b3b3;
+        color: white;
+     }
+     .commonFloatIcon>img 
+     {
+        overflow: hidden;
+        position: absolute;
+        margin-top: -60px;
+        left: -4px;
+        bottom: 300px;
+        height: 128px;
+        width: 142px;
+     }
+     .prettyGirl
+     {
+        padding: 0px;
+        margin: 0px 0px;
+        height: 500px;
+        width: 190%;
+     }
+    .leftSide, .rightSide
+    {
+    /*    height: 500px;*/
+        float: left;
+        width: 112px; 
+    }
+    .leftSide>img
+    {
+        padding: 0px;
+        margin: 0px;
+        height: 500px;
+        width: 910px;
+        position: relative;
+    }
+    .rightSide
+    {
+        background-color: #1e5292;
+    }
+    .commonRightSide
+    {
+        padding: 45px 16px;
+        display: block;
+        float: none;
+        position: absolute;
+        width: 690px;
+    }
+    .commonRightSide>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 28px;
+        /* font-weight: 500; */
+        color: #000000;
+        /* text-align: center;*/
+    }
+    .commonRightSide>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 58px;
+        /* font-weight: 500; */
+        color: #ffffffe3;
+    }
+    .commonRightSide>p
+    {
+        padding: 12px 0px;
+        margin: 0px;
+        font-size: 31px;
+        /* font-weight: 500; */
+        color: #000000;
+    }
+    .commonRightSide>button
+    {
+        padding: 16px 0px;
+    /*     margin: 25px 20px; */
+        background-color: #23b3b3;
+    /*     border: 1px solid #23b3b3; */
+        border: none;
+    }
+
+    .commonRightSide>button>a
+    {
+    padding: 7px 15px 6px 12px; */
+        margin: 0px;
+        color: white;
+        font-size: 27px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        padding: 17px 38px;
+    }
+    .doctors 
+    {
+        margin: 0px;
+        padding: 0px;
+        /* overflow: hidden; */
+        height: 4090px;
+        width: 190%;
+    }
+   .doctor1, .doctor2, .doctor3, .doctor4
+    {
+        /*    margin: auto; */
+        /* padding: 0px; */
+        float: none;
+        display: block;
+        text-align: center;
+        width: 930px;
+    }
+     .commonDoctor 
+    {
+    /*        margin: 0px;*/
+        padding: 50px 50px;
+        /* border: 1px solid red; */
+        height: 936px;
+        /* display: block; */
+        margin: 0px 0px;
+        position: relative;
+    }
+     .commonDoctor>img 
+    {
+        margin: 0px;
+        padding: 0px;
+        height: 590px;
+        width: 630px;
+    }
+     
+     .commonDoctorsDetails 
+    {
+        /* padding: 28px 0px; */
+        text-align: center;
+        background-color: #1e58a0;
+        position: absolute;
+        display: block;
+        float: none;
+        margin: -8px 100px;
+        width: 630px;
+        /* text-align: center;*/
+    }
+    .commonDoctorsDetails>h2 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 51px;
+        font-weight: 500;
+        color: white;
+    }
+    .commonDoctorsDetails>p 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 32px;
+        color: #ffffff8f;
+    }
+
+    .commonDoctorsDetails>h3 
+    {
+        margin: 0px;
+        padding: 7px 0px;
+        font-size: 34px;
+        font-weight: 500;
+        /* border: 1px solid black; */
+        color: azure;
+    }
+    .medipol
+    {
+        margin: 0px;
+        display: block;
+        float: none;
+        /* margin: 0px 200px; */
+        /* padding: 0px 0px; */
+        height: 940px;
+        width: 190%;
+        background-color: #1e58a0;
+    }
+    .medi1
+    {
+        display: block;
+        float: none;
+        margin: 0px 0px 15px 0px;
+        text-align: center;
+        width: 90%;
+    }
+    .medi1>h3
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 40px;
+        /* font-weight: 500; */
+        color: #b19d9d;
+    }
+    .medi1>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 60px;
+        /* font-weight: 500; */
+        color: white;
+    }
+
+    .medi2, .medi3, .medi4
+    {
+        display: block;
+        float: none;
+        margin: 50px 0px;
+        width: 83%;
+    }
+    .commoneMedi>h3
+    {
+        margin: 0px;
+        padding: 17px 0px;
+        font-size: 48px;
+        font-weight: 500;
+        color: white;
+        text-align: center;
+    }
+    .commoneMedi>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 55px;
+        font-weight: 500;
+        color: white;
+        text-align: center
+    }
+     .cerasoulContainer
+    {
+        margin: 0px 0px;
+        padding: 0px 0px;
+        width: 190%;
+        height: 1753px;
+        /* left: 13%;*/
+    }
+    .leftContainer
+    {
+        /*FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+
+    .commonContainer
+    {
+        /* margin: 0px; */
+        display: block;
+        float: none;
+        margin: auto;
+        padding: 0px 0px;
+        /*    height: 771px;*/
+        /* text-align: center; */
+    }
+
+    .commonContainer>img
+    {
+        text-align: center;
+        height: 330px;
+        /* display: block; */
+        width: 348px;
+        /* margin: auto; */
+        /* padding: 0px 170px*/
+    }
+    .commonContainer>h1
+    {
+        /*text-align: center; */
+        font-size: 55px;
+        font-weight: 900;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+    }
+    .commonContainer>h2
+    {
+        text-align: center;
+        font-size: 37px;
+        color: #1abdb4;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px 10px 0px;
+    }
+    .commonContainer>p
+    {
+       text-align: center;
+        font-size: 35px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+    .rightContainer
+    {
+        /*    FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+     
+    .straightLine
+    {
+     display: none;
+    }
+     
+    .logo
+    {
+        height: 2162px;
+        float: none;
+        display: block;
+        /* margin: auto; */
+        width: 190%;  
+        margin: 0px;
+    }
+
+    .logo1, .logo2, .logo3, .logo4, .logo5
+    {
+        display: block;
+        /* margin: auto; */
+        /* float: left; */
+        width: 72%;
+        padding: 0px 0px;
+        width: 96%;
+    }
+    .commonLogo
+    {
+        margin: 0px;
+        padding: 0px;
+        padding: 0px;
+    }
+    .commonLogo>img
+    {
+        height: 424px;
+        width: 104%;
+    }
+    .straightLine
+    {
+        display: none;
+    }
+   
+    .blueBox 
+    {
+        width: 190%;
+        background-color: #4575bd;
+        height: 4810px;
+    }
+    .blockBox 
+    {
+        /* display: block; */
+        /* margin: 0px 10%; */
+        width: 100%;
+        margin: 0px 0%;
+        /* border: 0.5px solid red; */
+    }
+    .firstRow
+    {
+        padding: 10px 0px 0px 0px;
+        width: 100%;
+        height: 1258px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .forAppointment
+    {
+        margin: auto;
+        float: none;
+        margin: auto;
+        /* width: 30%; */
+        height: 496px;
+    }
+
+
+    .firstRowCommonLogo
+    {
+        width: 130%;
+        /* height: 629px; */
+        padding-bottom: 0px;
+    }
+    .firstRowCommonLogo>img
+    {
+        width: 150px;
+        height: 200px;
+        display: block;
+        /* float: left; */
+        padding: 39px 93px;
+    }
+
+    .firstRowCommonLogo>h1
+    {
+        font-size: 48px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        display: block;
+        float: left;
+    }
+    .firstRowCommonLogo>h2
+    {
+        font-size: 46px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        /* margin-left: 25px; */
+        display: block;
+        /* float: left; */
+        /* margin-left: 24px; */
+        padding: 0px 0px 27px 0px;
+    }
+    .forShutterHealth
+    {
+        display: block;
+        float: none;
+        width: 20%;
+        height: 158px;
+        margin: auto;
+    }
+    .forShutterHealth>img
+    {
+        width: 400px;
+        height: 150px;
+        display: block;
+        float: none;
+        margin: 0px -86px;
+    }
+         .forWhatsapp
+    {
+        display: block;
+        float: none;
+        width: 30%;
+        margin: auto;
+        height: 469px;
+    }
+     
+       .firstStraightLine
+     {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+     }
+     
+     
+    .secondRow
+    {
+        width: 100%;
+        height: 260px;
+        padding: 0px 0px 0px 0px;
+    }
+    .secondRowLeft, .secondRowRight
+    {
+            display: block;
+        float: none;
+        margin: auto;
+        width: 50%;
+        height: 120px;
+        padding: 0px 0px;
+    }
+
+    .secondRowLeftFirst
+    {
+        display: block;
+        float: none;
+        /* margin: 0px; */
+        width: 100%;
+        text-align: center;
+    }
+         .secondRowLeftFirst>h1
+    {
+        font-size: 34px;
+        font-weight: 600;
+        text-align: center;
+        display: block;
+        color: antiquewhite;
+        /* padding: 10px 0px 0px 0px; */
+    }
+
+    .secondRowLeftSecond 
+    {
+        display: block;
+        width: 100%;
+        height: 124px;
+        float: none;
+        /* margin: auto;*/
+    }
+
+    .logoList
+    {
+        list-style: none;
+        float: left;
+        display: block;
+        padding: 0px 0px;
+    }
+    .logoList>li
+    {
+        float: left;
+        padding: 0px 6px;
+
+    }
+    .logoList>li>a
+    {
+        display: block;
+        padding: 2px 15px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .logoList>li>a>img
+    {
+        padding: 10px 0px 0px 0px;
+        height: 78px;
+        width: 63px;
+    }
+    .secondRowRight
+    {
+        display: none;
+    }
+    .secondStraightLine
+    {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+    }
+    
+    .thirdRow
+    {
+        height: 3090px;
+        margin: 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    
+    .thirdRowBoxOne
+    {
+            padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        width: 100%;
+        height: 530px;
+    }
+    .thirdRowBoxOne>h1
+    {
+        color: white;
+        font-size: 100px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxOne>h2
+    {
+        color: white;
+        font-size: 62px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 2px 0px;
+    }
+    .thirdRowBoxOne>p
+    {
+            color: white;
+        font-size: 39px;
+        /* font-weight: 400; */
+        word-spacing: 1px;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxTwo
+    {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        height: 1811px;
+        width: 100%;
+        display: block;
+    }
+    .thirdRowBoxTwo>h1
+    {
+        color: white;
+        font-size: 90px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .leftDepartmentList
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+        height: auto;
+    }
+
+    .leftDepartmentList>li
+    {
+        float: none;
+        /* display: block; */
+        padding: 1px 0px;
+
+    }
+    .leftDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+        /* text-align: center; */
+        margin: 0px 0px;
+    }
+    .leftDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .rightDepartmentList 
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+    }
+    .rightDepartmentList>li
+    {
+        float: left;
+        /* display: block; */
+        padding: 1px 0px;
+    }
+    .rightDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+    }
+    .rightDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .thirdRowBoxThree 
+    {
+        height: 760px;
+        width: 100%;
+        float: left;
+        display: block;
+    }
+    .thirdRowBoxThree>h1
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 8px;
+    }
+    .photoGallery>img
+    {
+        float: left;
+        display: block;
+        width: 48%;
+        height: 210px;
+        padding: 8px;
+    }
+    .thirdStraightLine
+    {
+       display: none;
+    }
+    .fourthRow
+    {
+        padding: 8px 0px 0px 0px;
+        margin: 0px 0px;
+        height: 178px;
+        width: 100%;
+    }
+    .leftDiv, .rightDiv
+    {
+        display: block;
+        float: none;
+        width: 100%;
+        /* text-align: center; */
+    }
+    .leftDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+    .rightDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+
+    .rightDiv>h2>a
+    {
+        color: orangered;
+        text-decoration: none;
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+
+    
+    
+    
+     
+}
+
+/*/////////////end of 480x766/////////////*/
+
+@media only screen and (min-width:767px) and (max-width:990px)
+ {  
+     .body
+     {
+         padding: 0px;
+         margin: 0px;
+     }
+     /****blueNavBar****/
+    .blueNavBar
+    {
+            display: none;
+    }
+     .navBar
+     {
+        background-color: white;
+        width: 990px;
+        height: 1050px;
+        padding: 0px;
+         margin: 0%;
+     }
+    .navBarImg 
+     {
+        display: block;
+        float: none;
+     }
+     .navBarImg>img 
+    {
+        padding: 10px 228px;
+        height: 110px;
+        width: 452px;
+        display: block;
+        float: none;
+    }   
+     .navBarList 
+     {
+        display: block;
+        float: none;
+        text-align: center;
+        margin: 0px 70px;
+        height: 914px;
+        width: 767px;
+     }
+     .navBarList>ul 
+     {
+        list-style: none;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+     .navBarList>ul>li 
+     {
+        float: none;
+        text-align: center;
+        padding: 10px;
+     }
+     .navBarList>ul>li>a 
+     {
+        padding: 10px 12px;
+        color: #337ab7;
+        text-decoration: none;
+        font-size: 51px;
+        font-weight: 700;
+     }
+     .navBarList>ul>li>img
+     {
+        padding: 7px 12px 0px 0px;
+        /* margin: 10px; */
+        height: 63px;
+        width: 66px; 
+     }  
+    .bannerImg 
+    {
+        background-image: url(../image/Doctors-PNG.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 990px;
+        height: 660px;
+        position: relative;
+        /* background-attachment: fixed; */
+    }
+     .bannerF123 {
+        height: 2072px;
+        width: 190%;
+    }
+    .displayFloat 
+    {     
+        display: block;
+        float: none;
+        margin: auto; 
+        width: 990px;
+        text-align: center;
+        height: 1410px;
+        left: 0%;
+    }
+     .F1, .F2, .F3 
+     {
+        height: 475px;
+        float: none;
+        display: block;
+         margin: auto;
+        width: 72%;
+
+     }
+     .F1 
+     {
+         background-color: #1abdb4;
+
+     }
+     .F123 
+     {
+        margin: 0px;
+        padding: 40px;
+
+     }
+     .image 
+     {
+        margin: auto;
+        padding: 0px;
+        height: 100px;
+        width: 100px;
+
+     }
+     .F123>h1 
+     {
+        color: white;
+        font-size: 55px;
+        font-weight: 500;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>p 
+     {
+        color: gainsboro;
+        font-size: 38px;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>button>a 
+     {
+        text-decoration: none;
+        padding: 4px 0px;
+        font-size: 36px;
+        color: white;
+        margin: -3px;
+
+     }
+     
+     .container>h1 
+     {
+        margin: 96px 200px;
+        padding: 0px;
+        font-size: 78px;
+        color: white;
+        font-weight: 600;
+        display: block;
+        text-align: center;
+        position: absolute;
+     }
+     .fisrtContainer 
+     {
+        height: 450px;
+        width: 917px;
+        padding: 30px 36px;
+        /* margin: auto; */
+        /* left: 38px; */
+        float: none;
+        display: block;
+        text-align: center;
+     }
+     .fisrtContainer>h4 
+     {
+        font-size: 30px;
+        color: #9f9da5;  
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>h1 
+     {
+        font-size: 81px;
+        font-weight: 500;
+        color: #1abdb4;
+        margin: auto;
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>img 
+     {
+        width: 422px;
+        height: 224px;
+        padding: 0px 0px 0px 0px;
+
+     }
+     .secondContainer 
+     {
+        height: 2283px;
+        width: 990px;
+        padding: 0px;
+     }
+     .C1, .C2, .C3 
+     {
+        float: none;
+        display: block;
+        margin: auto;
+        text-align: center;
+        width: 908px;
+
+     }
+     .commonContainer 
+     {
+        margin: auto;
+        display: block;
+        padding: 0px 0px;
+        height: 636px;
+        text-align: center;
+
+     }
+    .commonContainer>img 
+     {
+        text-align: center;
+        height: 213px;
+        width: 266px;
+     }
+     .commonContainer>h1 
+     {
+        font-size: 56px;
+        font-weight: 600;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+     }
+     .commonContainer>p 
+     {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+     }  
+     .backgroundBannerImg 
+     {
+        background-image: url(../image/backgroundDoctors.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 990px;
+        height: 555px;
+        position: relative;
+     }
+     .appointmentOverLay 
+     {
+        background-image: linear-gradient(to bottom right, #666ac5, #1f1f29);
+        height: 555px;
+        opacity: 0.48;
+        position: absolute;
+        width: 100%;
+     }
+     .getAppointment 
+     {
+        padding: 72px 0px;
+        position: absolute;
+     }
+     .getAppointment>img 
+     {
+        padding: 0px;
+        margin: auto;
+        display: block;
+        height: 120px;
+        width: 130px;
+     }
+     .appointmentOverLay
+     {
+         
+     }
+     .getAppointment>h1 
+     
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #ffffff;
+        font-size: 46px;
+        font-weight: 600;
+        text-align: center;
+        /* position: absolute; */
+
+     }
+     .getAppointment>p 
+     
+     {
+        margin: 0px;
+        color: #f9f9a9;
+        font-size: 32px;
+        font-weight: 200;
+        text-align: center;
+     }
+     .getAppointment>button 
+     {
+        padding: 15px;
+        margin: auto;
+        display: block;
+        border-radius: 15px;
+     }
+     .getAppointment>button>a 
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #335cd4;
+        font-size: 29px;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+     }
+     .department 
+     {
+        overflow: hidden;
+        padding: 0px 0px;
+        /* margin: 116px; */
+        display: block;
+        float: none;
+        width: 990px;
+        margin: 0px;
+        /* padding: 0px 80px;*/
+
+     }
+    .leftDepartment 
+     {
+        height: 1210px;
+        width: 68%;
+        margin: auto;
+        float: none;
+        display: block;
+        text-align: center;
+        /* border: 1px solid red; */
+        background-color: #20247d;
+     }
+     .leftDepartment>h1 
+     {
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+     }
+     .leftDepartment>ul 
+     {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: auto;
+        padding: 0px;
+     }
+     .leftDepartment>ul>li 
+     {
+        font-weight: 400;
+        display: block;
+        float: none;
+     }
+     .leftDepartmentList>li>a 
+     {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 73px;
+        margin: 0px 0px;
+     }
+     .leftDepartment>ul>li>a>h3 
+     {
+        font-size: 34px;
+        font-weight: 400;
+        color: white;
+        text-decoration: none;
+        text-align: left;
+     }
+     .leftDepartmentButton 
+     {
+        padding: 41px 0px 0px 0px;
+     }
+     .leftDepartmentButton>a 
+     {
+        padding: 15px 12px;
+        color: WHITE;
+        text-decoration: none;
+        font-size: 38px;
+        font-weight: 500;
+        border: 1px solid gray;
+     }
+     .rightDepartment
+    {
+        height: 1660px;
+        padding: 0px 0px 0px 0px;
+        float: left;
+        width: 100%;
+    }
+    .rightDepertmentHeader
+    {
+        margin: 0px;
+        padding: 30px 0px;
+        height: 181px;
+    }
+    .rightDepertmentHeader>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        color: gray;
+        font-size: 30px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .rightDepertmentHeader>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        color: #1abdb4;
+        font-size: 54px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .leftFloatBox, .rightFloatBox
+    {
+       height: 706px;
+        display: block;
+        float: none;
+        width: 100%;
+        padding: 0px;
+    }
+    .commonFloat
+    {
+      padding: 0px;
+        margin: 0px;
+        float: none;
+        /* position: relative; */
+        display: block;
+        /* margin: auto;*/
+    }
+    .commonFloat>img
+    {
+        padding: 0px;
+        margin: 0px 126px;
+        height: 325px;
+        width: 750px;
+    }
+    .commonFloat>h1
+    {
+            padding: 8px 0px 0px 0px;
+        margin: 0px;
+        color: #23b3b3;
+        font-size: 40px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>p
+    {
+       padding: 0px 0px 10px 0px;
+        margin: 0px;
+        color: #827474;
+        font-size: 33px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>button
+    {
+       padding: 5px 0px 5px 0px;
+        margin: 0px;
+        background-color: white;
+        border: 1px solid #23b3b3;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .commonFloat>button>a
+    {
+        padding: 7px 15px 6px 12px;
+        margin: 0px;
+        color: #827474;
+        font-size: 38px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        text-align: center;
+    }
+     .commonFloat>button>a:hover
+     {
+        background-color:#23b3b3;
+        color: white;
+     }
+     .commonFloatIcon>img 
+     {
+        overflow: hidden;
+        position: absolute;
+        margin-top: -60px;
+        left: 120px;
+        bottom: 300px;
+        height: 128px;
+        width: 142px;
+     }
+     .prettyGirl
+     {
+        padding: 0px;
+        margin: 0px 0px;
+        height: 500px;
+        width: 990px;
+     }
+    .leftSide, .rightSide
+    {
+    /*    height: 500px;*/
+        float: left;
+        width: 112px; 
+    }
+    .leftSide>img
+    {
+        padding: 0px;
+        margin: 0px;
+        height: 500px;
+        width: 990px;
+        position: relative;
+    }
+    .rightSide
+    {
+        background-color: #1e5292;
+    }
+    .commonRightSide
+    {
+        padding: 45px 16px;
+        display: block;
+        float: none;
+        position: absolute;
+        width: 826px;
+    }
+    .commonRightSide>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 28px;
+        /* font-weight: 500; */
+        color: #000000;
+        /* text-align: center;*/
+    }
+    .commonRightSide>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 58px;
+        /* font-weight: 500; */
+        color: #ffffffe3;
+    }
+    .commonRightSide>p
+    {
+        padding: 12px 0px;
+        margin: 0px;
+        font-size: 31px;
+        /* font-weight: 500; */
+        color: #000000;
+    }
+    .commonRightSide>button
+    {
+        padding: 16px 0px;
+    /*     margin: 25px 20px; */
+        background-color: #23b3b3;
+    /*     border: 1px solid #23b3b3; */
+        border: none;
+    }
+
+    .commonRightSide>button>a
+    {
+    padding: 7px 15px 6px 12px; */
+        margin: 0px;
+        color: white;
+        font-size: 27px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        padding: 17px 38px;
+    }
+    .doctors 
+    {
+        margin: 0px;
+        padding: 0px;
+        /* overflow: hidden; */
+        height: 4090px;
+        width: 990px;
+    }
+   .doctor1, .doctor2, .doctor3, .doctor4
+    {
+        /*    margin: auto; */
+        /* padding: 0px; */
+        float: none;
+        display: block;
+        text-align: center;
+        width: 930px;
+    }
+     .commonDoctor 
+    {
+        /*        margin: 0px;*/
+        padding: 50px 50px;
+        /* border: 1px solid red; */
+        height: 924px;
+        /* display: block; */
+        margin: 0px 0px;
+        position: relative;
+    }
+     .commonDoctor>img 
+    {
+        margin: 0px;
+        padding: 0px;
+        height: 590px;
+        width: 630px;
+    }
+     
+     .commonDoctorsDetails 
+    {
+        /* padding: 28px 0px; */
+        text-align: center;
+        background-color: #1e58a0;
+        position: absolute;
+        display: block;
+        float: none;
+        margin: -8px 100px;
+        width: 630px;
+        /* text-align: center;*/
+    }
+    .commonDoctorsDetails>h2 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 51px;
+        font-weight: 500;
+        color: white;
+    }
+    .commonDoctorsDetails>p 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 32px;
+        color: #ffffff8f;
+    }
+
+    .commonDoctorsDetails>h3 
+    {
+        margin: 0px;
+        padding: 7px 0px;
+        font-size: 34px;
+        font-weight: 500;
+        /* border: 1px solid black; */
+        color: azure;
+    }
+    .medipol
+    {
+        margin: 0px;
+        display: block;
+        float: none;
+        /* margin: 0px 200px; */
+        /* padding: 0px 0px; */
+        height: 940px;
+        width: 990px;
+        background-color: #1e58a0;
+    }
+    .medi1
+    {
+        display: block;
+        float: none;
+        margin: 0px 0px 15px 0px;
+        text-align: center;
+        width: 90%;
+    }
+    .medi1>h3
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 40px;
+        /* font-weight: 500; */
+        color: #b19d9d;
+    }
+    .medi1>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 60px;
+        /* font-weight: 500; */
+        color: white;
+    }
+
+    .medi2, .medi3, .medi4
+    {
+        display: block;
+        float: none;
+        margin: 50px 0px;
+        width: 83%;
+    }
+    .commoneMedi>h3
+    {
+        margin: 0px;
+        padding: 17px 0px;
+        font-size: 48px;
+        font-weight: 500;
+        color: white;
+        text-align: center;
+    }
+    .commoneMedi>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 55px;
+        font-weight: 500;
+        color: white;
+        text-align: center
+    }
+     .cerasoulContainer
+    {
+        margin: 0px 0px;
+        padding: 0px 0px;
+        width: 990px;
+        height: 1753px;
+        /* left: 13%;*/
+    }
+    .leftContainer
+    {
+        /*FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+
+    .commonContainer
+    {
+        /* margin: 0px; */
+        display: block;
+        float: none;
+        margin: auto;
+        padding: 0px 0px;
+        /*    height: 771px;*/
+        /* text-align: center; */
+    }
+
+    .commonContainer>img
+    {
+        text-align: center;
+        height: 330px;
+        /* display: block; */
+        width: 348px;
+        /* margin: auto; */
+        /* padding: 0px 170px*/
+    }
+    .commonContainer>h1
+    {
+        /*text-align: center; */
+        font-size: 55px;
+        font-weight: 900;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+    }
+    .commonContainer>h2
+    {
+        text-align: center;
+        font-size: 37px;
+        color: #1abdb4;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px 10px 0px;
+    }
+    .commonContainer>p
+    {
+       text-align: center;
+        font-size: 35px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+    .rightContainer
+    {
+        /*    FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+     
+    .straightLine
+    {
+     display: none;
+    }
+     
+    .logo
+    {
+        height: 1750px;
+        float: none;
+        display: block;
+        /* margin: auto; */
+        width: 990px;  
+        margin: 0px;
+    }
+
+    .logo1, .logo2, .logo3, .logo4, .logo5
+    {
+        display: block;
+        /* margin: auto; */
+        /* float: left; */
+        width: 72%;
+        padding: 0px 0px;
+        width: 990px;
+    }
+    .commonLogo
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+    .commonLogo>img
+    {
+        height: 350px;
+        width: 604px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .straightLine
+    {
+        display: none;
+    }
+   
+    .blueBox 
+    {
+        width: 990px;
+        background-color: #4575bd;
+        height: 4755px;
+    }
+    .blockBox 
+    {
+        /* display: block; */
+        /* margin: 0px 10%; */
+        width: 100%;
+        margin: 0px 0%;
+        /* border: 0.5px solid red; */
+    }
+    .firstRow
+    {
+        padding: 10px 0px 0px 0px;
+        width: 100%;
+        height: 1258px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .forAppointment
+    {
+        margin: auto;
+        float: none;
+        margin: auto;
+        /* width: 30%; */
+        height: 496px;
+    }
+
+
+    .firstRowCommonLogo
+    {
+        width: 130%;
+        /* height: 629px; */
+        padding-bottom: 0px;
+    }
+    .firstRowCommonLogo>img
+    {
+        width: 150px;
+        height: 200px;
+        display: block;
+        /* float: left; */
+        padding: 39px 93px;
+    }
+
+    .firstRowCommonLogo>h1
+    {
+        font-size: 48px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        display: block;
+        float: left;
+    }
+    .firstRowCommonLogo>h2
+    {
+        font-size: 46px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        /* margin-left: 25px; */
+        display: block;
+        /* float: left; */
+        /* margin-left: 24px; */
+        padding: 0px 0px 27px 0px;
+    }
+    .forShutterHealth
+    {
+        display: block;
+        float: none;
+        width: 20%;
+        height: 158px;
+        margin: auto;
+    }
+    .forShutterHealth>img
+    {
+        width: 400px;
+        height: 150px;
+        display: block;
+        float: none;
+        margin: 0px -86px;
+    }
+         .forWhatsapp
+    {
+        display: block;
+        float: none;
+        width: 30%;
+        margin: auto;
+        height: 469px;
+    }
+     
+       .firstStraightLine
+     {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+     }
+     
+     
+    .secondRow
+    {
+        width: 100%;
+        height: 260px;
+        padding: 0px 0px 0px 0px;
+    }
+    .secondRowLeft, .secondRowRight
+    {
+            display: block;
+        float: none;
+        margin: auto;
+        width: 50%;
+        height: 120px;
+        padding: 0px 0px;
+    }
+
+    .secondRowLeftFirst
+    {
+        display: block;
+        float: none;
+        /* margin: 0px; */
+        width: 100%;
+        text-align: center;
+    }
+         .secondRowLeftFirst>h1
+    {
+        font-size: 34px;
+        font-weight: 600;
+        text-align: center;
+        display: block;
+        color: antiquewhite;
+        /* padding: 10px 0px 0px 0px; */
+    }
+
+    .secondRowLeftSecond 
+    {
+        display: block;
+        width: 100%;
+        height: 124px;
+        float: none;
+        /* margin: auto;*/
+    }
+
+    .logoList
+    {
+        list-style: none;
+        float: left;
+        display: block;
+        padding: 0px 0px;
+    }
+    .logoList>li
+    {
+        float: left;
+        padding: 0px 6px;
+
+    }
+    .logoList>li>a
+    {
+        display: block;
+        padding: 2px 15px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .logoList>li>a>img
+    {
+        padding: 10px 0px 0px 0px;
+        height: 78px;
+        width: 63px;
+    }
+    .secondRowRight
+    {
+        display: none;
+    }
+    .secondStraightLine
+    {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+    }
+    
+    .thirdRow
+    {
+        height: 3090px;
+        margin: 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    
+    .thirdRowBoxOne
+    {
+            padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        width: 100%;
+        height: 530px;
+    }
+    .thirdRowBoxOne>h1
+    {
+        color: white;
+        font-size: 100px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxOne>h2
+    {
+        color: white;
+        font-size: 62px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 2px 0px;
+    }
+    .thirdRowBoxOne>p
+    {
+            color: white;
+        font-size: 39px;
+        /* font-weight: 400; */
+        word-spacing: 1px;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxTwo
+    {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        height: 1811px;
+        width: 100%;
+        display: block;
+    }
+    .thirdRowBoxTwo>h1
+    {
+        color: white;
+        font-size: 90px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .leftDepartmentList
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+        height: auto;
+    }
+
+    .leftDepartmentList>li
+    {
+        float: none;
+        /* display: block; */
+        padding: 1px 0px;
+
+    }
+    .leftDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+        /* text-align: center; */
+        margin: 0px 0px;
+    }
+    .leftDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .rightDepartmentList 
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+    }
+    .rightDepartmentList>li
+    {
+        float: left;
+        /* display: block; */
+        padding: 1px 0px;
+    }
+    .rightDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+    }
+    .rightDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .thirdRowBoxThree 
+    {
+        height: 760px;
+        width: 100%;
+        float: left;
+        display: block;
+    }
+    .thirdRowBoxThree>h1
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 8px;
+    }
+    .photoGallery>img
+    {
+        float: left;
+        display: block;
+        width: 48%;
+        height: 210px;
+        padding: 8px;
+    }
+    .thirdStraightLine
+    {
+       display: none;
+    }
+    .fourthRow
+    {
+        padding: 8px 0px 0px 0px;
+        margin: 0px 0px;
+        height: 126px;
+        width: 100%;
+    }
+    .leftDiv, .rightDiv
+    {
+        display: block;
+        float: none;
+        width: 100%;
+        /* text-align: center; */
+    }
+    .leftDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+    .rightDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+
+    .rightDiv>h2>a
+    {
+        color: orangered;
+        text-decoration: none;
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+
+    
+    
+    
+     
+}
+
+/*/////////////end of 480x766/////////////*/ 
+    
+@media only screen and (min-width:991px) and (max-width:1199px)
+
+ {  
+     .body
+     {
+         padding: 0px;
+         margin: 0px;
+     }
+     /****blueNavBar****/
+    .blueNavBar
+    {
+            display: none;
+    }
+     .navBar
+     {
+        background-color: white;
+        width: 990px;
+        height: 1050px;
+        padding: 0px;
+        margin: 0%;
+     }
+    .navBarImg 
+     {
+        display: block;
+        float: none;
+             margin: auto;
+     }
+     .navBarImg>img 
+    {
+        padding: 10px 228px;
+        height: 110px;
+        width: 452px;
+        display: block;
+        float: none;
+    }   
+     .navBarList 
+     {
+        display: block;
+        float: none;
+        text-align: center;
+        margin: 0px 70px;
+        height: 914px;
+        width: 767px;
+     }
+     .navBarList>ul 
+     {
+        list-style: none;
+        float: none;
+        display: block;
+        text-align: center;
+    }
+     .navBarList>ul>li 
+     {
+        float: none;
+        text-align: center;
+        padding: 10px;
+     }
+     .navBarList>ul>li>a 
+     {
+        padding: 10px 12px;
+        color: #337ab7;
+        text-decoration: none;
+        font-size: 51px;
+        font-weight: 700;
+     }
+     .navBarList>ul>li>img
+     {
+        padding: 7px 12px 0px 0px;
+        /* margin: 10px; */
+        height: 63px;
+        width: 66px; 
+     }  
+    .bannerImg 
+    {
+        background-image: url(../image/Doctors-PNG.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 990px;
+        height: 660px;
+        position: relative;
+        /* background-attachment: fixed; */
+    }
+     .bannerF123 {
+        height: 2072px;
+        width: 190%;
+    }
+    .displayFloat 
+    {     
+        display: block;
+        float: none;
+        margin: auto; 
+        width: 990px;
+        text-align: center;
+        height: 1410px;
+        left: 0%;
+    }
+     .F1, .F2, .F3 
+     {
+        height: 475px;
+        float: none;
+        display: block;
+         margin: auto;
+        width: 72%;
+
+     }
+     .F1 
+     {
+         background-color: #1abdb4;
+
+     }
+     .F123 
+     {
+        margin: 0px;
+        padding: 40px;
+
+     }
+     .image 
+     {
+        margin: auto;
+        padding: 0px;
+        height: 100px;
+        width: 100px;
+
+     }
+     .F123>h1 
+     {
+        color: white;
+        font-size: 55px;
+        font-weight: 500;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>p 
+     {
+        color: gainsboro;
+        font-size: 38px;
+        margin: 0px;
+        padding: 0px;
+
+     }
+     .F123>button>a 
+     {
+        text-decoration: none;
+        padding: 4px 0px;
+        font-size: 36px;
+        color: white;
+        margin: -3px;
+
+     }
+     
+     .container>h1 
+     {
+        margin: 96px 200px;
+        padding: 0px;
+        font-size: 78px;
+        color: white;
+        font-weight: 600;
+        display: block;
+        text-align: center;
+        position: absolute;
+     }
+     .fisrtContainer 
+     {
+        height: 450px;
+        width: 917px;
+        padding: 30px 36px;
+        /* margin: auto; */
+        /* left: 38px; */
+        float: none;
+        display: block;
+        text-align: center;
+     }
+     .fisrtContainer>h4 
+     {
+        font-size: 30px;
+        color: #9f9da5;  
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>h1 
+     {
+        font-size: 81px;
+        font-weight: 500;
+        color: #1abdb4;
+        margin: auto;
+        padding: 0px;
+        text-align: center;
+     }
+     .fisrtContainer>img 
+     {
+        width: 422px;
+        height: 224px;
+        padding: 0px 0px 0px 0px;
+
+     }
+     .secondContainer 
+     {
+        height: 2283px;
+        width: 990px;
+        padding: 0px;
+     }
+     .C1, .C2, .C3 
+     {
+        float: none;
+        display: block;
+        margin: auto;
+        text-align: center;
+        width: 908px;
+
+     }
+     .commonContainer 
+     {
+        margin: auto;
+        display: block;
+        padding: 0px 0px;
+        height: 636px;
+        text-align: center;
+
+     }
+    .commonContainer>img 
+     {
+        text-align: center;
+        height: 213px;
+        width: 266px;
+     }
+     .commonContainer>h1 
+     {
+        font-size: 56px;
+        font-weight: 600;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+     }
+     .commonContainer>p 
+     {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+     }  
+     .backgroundBannerImg 
+     {
+        background-image: url(../image/backgroundDoctors.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 990px;
+        height: 555px;
+        position: relative;
+     }
+     .appointmentOverLay 
+     {
+        background-image: linear-gradient(to bottom right, #666ac5, #1f1f29);
+        height: 555px;
+        opacity: 0.48;
+        position: absolute;
+        width: 100%;
+     }
+     .getAppointment 
+     {
+        padding: 72px 0px;
+        position: absolute;
+     }
+     .getAppointment>img 
+     {
+        padding: 0px;
+        margin: auto;
+        display: block;
+        height: 120px;
+        width: 130px;
+     }
+     .appointmentOverLay
+     {
+         
+     }
+     .getAppointment>h1 
+     
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #ffffff;
+        font-size: 46px;
+        font-weight: 600;
+        text-align: center;
+        /* position: absolute; */
+
+     }
+     .getAppointment>p 
+     
+     {
+        margin: 0px;
+        color: #f9f9a9;
+        font-size: 32px;
+        font-weight: 200;
+        text-align: center;
+     }
+     .getAppointment>button 
+     {
+        padding: 15px;
+        margin: auto;
+        display: block;
+        border-radius: 15px;
+     }
+     .getAppointment>button>a 
+     {
+        padding: 0px;
+        margin: 0px;
+        color: #335cd4;
+        font-size: 29px;
+        font-weight: 700;
+        text-decoration: none;
+        text-align: center;
+     }
+     .department 
+     {
+        overflow: hidden;
+        padding: 0px 0px;
+        /* margin: 116px; */
+        display: block;
+        float: none;
+        width: 990px;
+        margin: 0px;
+        /* padding: 0px 80px;*/
+
+     }
+    .leftDepartment 
+     {
+        height: 1210px;
+        width: 68%;
+        margin: auto;
+        float: none;
+        display: block;
+        text-align: center;
+        /* border: 1px solid red; */
+        background-color: #20247d;
+     }
+     .leftDepartment>h1 
+     {
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+     }
+     .leftDepartment>ul 
+     {
+        float: none;
+        display: block;
+        text-align: center;
+        margin: auto;
+        padding: 0px;
+     }
+     .leftDepartment>ul>li 
+     {
+        font-weight: 400;
+        display: block;
+        float: none;
+     }
+     .leftDepartmentList>li>a 
+     {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 73px;
+        margin: 0px 0px;
+     }
+     .leftDepartment>ul>li>a>h3 
+     {
+        font-size: 34px;
+        font-weight: 400;
+        color: white;
+        text-decoration: none;
+        text-align: left;
+     }
+     .leftDepartmentButton 
+     {
+        padding: 41px 0px 0px 0px;
+     }
+     .leftDepartmentButton>a 
+     {
+        padding: 15px 12px;
+        color: WHITE;
+        text-decoration: none;
+        font-size: 38px;
+        font-weight: 500;
+        border: 1px solid gray;
+     }
+     .rightDepartment
+    {
+        height: 1660px;
+        padding: 0px 0px 0px 0px;
+        float: left;
+        width: 100%;
+    }
+    .rightDepertmentHeader
+    {
+        margin: 0px;
+        padding: 30px 0px;
+        height: 181px;
+    }
+    .rightDepertmentHeader>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        color: gray;
+        font-size: 30px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .rightDepertmentHeader>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        color: #1abdb4;
+        font-size: 54px;
+        font-weight: 500;
+        text-align: center;
+    }
+
+    .leftFloatBox, .rightFloatBox
+    {
+       height: 706px;
+        display: block;
+        float: none;
+        width: 100%;
+        padding: 0px;
+    }
+    .commonFloat
+    {
+      padding: 0px;
+        margin: 0px;
+        float: none;
+        /* position: relative; */
+        display: block;
+        /* margin: auto;*/
+    }
+    .commonFloat>img
+    {
+        padding: 0px;
+        margin: 0px 126px;
+        height: 325px;
+        width: 750px;
+    }
+    .commonFloat>h1
+    {
+            padding: 8px 0px 0px 0px;
+        margin: 0px;
+        color: #23b3b3;
+        font-size: 40px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>p
+    {
+       padding: 0px 0px 10px 0px;
+        margin: 0px;
+        color: #827474;
+        font-size: 33px;
+        /* font-weight: 500; */
+        text-align: center;
+    }
+    .commonFloat>button
+    {
+       padding: 5px 0px 5px 0px;
+        margin: 0px;
+        background-color: white;
+        border: 1px solid #23b3b3;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .commonFloat>button>a
+    {
+        padding: 7px 15px 6px 12px;
+        margin: 0px;
+        color: #827474;
+        font-size: 38px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        text-align: center;
+    }
+     .commonFloat>button>a:hover
+     {
+        background-color:#23b3b3;
+        color: white;
+     }
+     .commonFloatIcon>img 
+     {
+        overflow: hidden;
+        position: absolute;
+        margin-top: -60px;
+        left: 120px;
+        bottom: 300px;
+        height: 128px;
+        width: 142px;
+     }
+     .prettyGirl
+     {
+        padding: 0px;
+        margin: 0px 0px;
+        height: 500px;
+        width: 990px;
+     }
+    .leftSide, .rightSide
+    {
+    /*    height: 500px;*/
+        float: left;
+        width: 112px; 
+    }
+    .leftSide>img
+    {
+        padding: 0px;
+        margin: 0px;
+        height: 500px;
+        width: 990px;
+        position: relative;
+    }
+    .rightSide
+    {
+        background-color: #1e5292;
+    }
+    .commonRightSide
+    {
+        padding: 45px 16px;
+        display: block;
+        float: none;
+        position: absolute;
+        width: 826px;
+    }
+    .commonRightSide>h5
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 28px;
+        /* font-weight: 500; */
+        color: #000000;
+        /* text-align: center;*/
+    }
+    .commonRightSide>h1
+    {
+        padding: 0px;
+        margin: 0px;
+        font-size: 58px;
+        /* font-weight: 500; */
+        color: #ffffffe3;
+    }
+    .commonRightSide>p
+    {
+        padding: 12px 0px;
+        margin: 0px;
+        font-size: 31px;
+        /* font-weight: 500; */
+        color: #000000;
+    }
+    .commonRightSide>button
+    {
+        padding: 16px 0px;
+    /*     margin: 25px 20px; */
+        background-color: #23b3b3;
+    /*     border: 1px solid #23b3b3; */
+        border: none;
+    }
+
+    .commonRightSide>button>a
+    {
+    padding: 7px 15px 6px 12px; */
+        margin: 0px;
+        color: white;
+        font-size: 27px;
+        /* font-weight: 500; */
+        text-decoration: none;
+        padding: 17px 38px;
+    }
+    .doctors 
+    {
+        margin: 0px;
+        padding: 0px;
+        /* overflow: hidden; */
+        height: 4090px;
+        width: 990px;
+    }
+   .doctor1, .doctor2, .doctor3, .doctor4
+    {
+        /*    margin: auto; */
+        /* padding: 0px; */
+        float: none;
+        display: block;
+        text-align: center;
+        width: 930px;
+    }
+     .commonDoctor 
+    {
+        /*        margin: 0px;*/
+        padding: 50px 50px;
+        /* border: 1px solid red; */
+        height: 924px;
+        /* display: block; */
+        margin: 0px 0px;
+        position: relative;
+    }
+     .commonDoctor>img 
+    {
+        margin: 0px;
+        padding: 0px;
+        height: 590px;
+        width: 630px;
+    }
+     
+     .commonDoctorsDetails 
+    {
+        /* padding: 28px 0px; */
+        text-align: center;
+        background-color: #1e58a0;
+        position: absolute;
+        display: block;
+        float: none;
+        margin: -8px 100px;
+        width: 630px;
+        /* text-align: center;*/
+    }
+    .commonDoctorsDetails>h2 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 51px;
+        font-weight: 500;
+        color: white;
+    }
+    .commonDoctorsDetails>p 
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 32px;
+        color: #ffffff8f;
+    }
+
+    .commonDoctorsDetails>h3 
+    {
+        margin: 0px;
+        padding: 7px 0px;
+        font-size: 34px;
+        font-weight: 500;
+        /* border: 1px solid black; */
+        color: azure;
+    }
+    .medipol
+    {
+        margin: 0px;
+        display: block;
+        float: none;
+        /* margin: 0px 200px; */
+        /* padding: 0px 0px; */
+        height: 940px;
+        width: 990px;
+        background-color: #1e58a0;
+    }
+    .medi1
+    {
+        display: block;
+        float: none;
+        margin: 0px 0px 15px 0px;
+        text-align: center;
+        width: 90%;
+    }
+    .medi1>h3
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 40px;
+        /* font-weight: 500; */
+        color: #b19d9d;
+    }
+    .medi1>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 60px;
+        /* font-weight: 500; */
+        color: white;
+    }
+
+    .medi2, .medi3, .medi4
+    {
+        display: block;
+        float: none;
+        margin: 50px 0px;
+        width: 83%;
+    }
+    .commoneMedi>h3
+    {
+        margin: 0px;
+        padding: 17px 0px;
+        font-size: 48px;
+        font-weight: 500;
+        color: white;
+        text-align: center;
+    }
+    .commoneMedi>h1
+    {
+        margin: 0px;
+        padding: 0px;
+        font-size: 55px;
+        font-weight: 500;
+        color: white;
+        text-align: center
+    }
+     .cerasoulContainer
+    {
+        margin: 0px 0px;
+        padding: 0px 0px;
+        width: 990px;
+        height: 1753px;
+        /* left: 13%;*/
+    }
+    .leftContainer
+    {
+        /*FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+
+    .commonContainer
+    {
+        /* margin: 0px; */
+        display: block;
+        float: none;
+        margin: auto;
+        padding: 0px 0px;
+        /*    height: 771px;*/
+        /* text-align: center; */
+    }
+
+    .commonContainer>img
+    {
+        text-align: center;
+        height: 330px;
+        /* display: block; */
+        width: 348px;
+        /* margin: auto; */
+        /* padding: 0px 170px*/
+    }
+    .commonContainer>h1
+    {
+        /*text-align: center; */
+        font-size: 55px;
+        font-weight: 900;
+        color: black;
+        margin: 10px 0px;
+        padding: 0px 0px;
+    }
+    .commonContainer>h2
+    {
+        text-align: center;
+        font-size: 37px;
+        color: #1abdb4;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px 10px 0px;
+    }
+    .commonContainer>p
+    {
+       text-align: center;
+        font-size: 35px;
+        font-weight: 500;
+        margin: 0px 0px;
+        padding: 0px 0px;
+    }
+    .rightContainer
+    {
+        /*    FONT-VARIANT: JIS04;*/
+        FONT-VARIANT: JIS04;
+        /* padding: 0px 0px; */
+        height: 826px;
+        width: 100%;
+        float: none;
+        display: block;
+        /* padding: 0px 29px; */
+        /* padding: 0px 59px; */
+        margin: 70px 0px;
+        box-shadow: 0px 1px 20px 0px #524848;
+    }
+     
+    .straightLine
+    {
+     display: none;
+    }
+     
+    .logo
+    {
+        height: 1750px;
+        float: none;
+        display: block;
+        /* margin: auto; */
+        width: 990px;  
+        margin: 0px;
+    }
+
+    .logo1, .logo2, .logo3, .logo4, .logo5
+    {
+        display: block;
+        /* margin: auto; */
+        /* float: left; */
+        width: 72%;
+        padding: 0px 0px;
+        width: 990px;
+    }
+    .commonLogo
+    {
+        margin: 0px;
+        padding: 0px;
+    }
+    .commonLogo>img
+    {
+        height: 350px;
+        width: 604px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .straightLine
+    {
+        display: none;
+    }
+   
+    .blueBox 
+    {
+        width: 990px;
+        background-color: #4575bd;
+        height: 4755px;
+    }
+    .blockBox 
+    {
+        /* display: block; */
+        /* margin: 0px 10%; */
+        width: 100%;
+        margin: 0px 0%;
+        /* border: 0.5px solid red; */
+    }
+    .firstRow
+    {
+        padding: 10px 0px 0px 0px;
+        width: 100%;
+        height: 1258px;
+        display: block;
+        float: none;
+        margin: auto;
+    }
+    .forAppointment
+    {
+        margin: auto;
+        float: none;
+        margin: auto;
+        /* width: 30%; */
+        height: 496px;
+    }
+
+
+    .firstRowCommonLogo
+    {
+        width: 130%;
+        /* height: 629px; */
+        padding-bottom: 0px;
+    }
+    .firstRowCommonLogo>img
+    {
+        width: 150px;
+        height: 200px;
+        display: block;
+        /* float: left; */
+        padding: 39px 93px;
+    }
+
+    .firstRowCommonLogo>h1
+    {
+        font-size: 48px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        display: block;
+        float: left;
+    }
+    .firstRowCommonLogo>h2
+    {
+        font-size: 46px;
+        font-weight: 500;
+        color: antiquewhite;
+        text-align: center;
+        /* margin-left: 25px; */
+        display: block;
+        /* float: left; */
+        /* margin-left: 24px; */
+        padding: 0px 0px 27px 0px;
+    }
+    .forShutterHealth
+    {
+        display: block;
+        float: none;
+        width: 20%;
+        height: 158px;
+        margin: auto;
+    }
+    .forShutterHealth>img
+    {
+        width: 400px;
+        height: 150px;
+        display: block;
+        float: none;
+        margin: 0px -86px;
+    }
+         .forWhatsapp
+    {
+        display: block;
+        float: none;
+        width: 30%;
+        margin: auto;
+        height: 469px;
+    }
+     
+       .firstStraightLine
+     {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+     }
+     
+     
+    .secondRow
+    {
+        width: 100%;
+        height: 260px;
+        padding: 0px 0px 0px 0px;
+    }
+    .secondRowLeft, .secondRowRight
+    {
+            display: block;
+        float: none;
+        margin: auto;
+        width: 50%;
+        height: 120px;
+        padding: 0px 0px;
+    }
+
+    .secondRowLeftFirst
+    {
+        display: block;
+        float: none;
+        /* margin: 0px; */
+        width: 100%;
+        text-align: center;
+    }
+         .secondRowLeftFirst>h1
+    {
+        font-size: 34px;
+        font-weight: 600;
+        text-align: center;
+        display: block;
+        color: antiquewhite;
+        /* padding: 10px 0px 0px 0px; */
+    }
+
+    .secondRowLeftSecond 
+    {
+        display: block;
+        width: 100%;
+        height: 124px;
+        float: none;
+        /* margin: auto;*/
+    }
+
+    .logoList
+    {
+        list-style: none;
+        float: left;
+        display: block;
+        padding: 0px 0px;
+    }
+    .logoList>li
+    {
+        float: left;
+        padding: 0px 6px;
+
+    }
+    .logoList>li>a
+    {
+        display: block;
+        padding: 2px 15px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .logoList>li>a>img
+    {
+        padding: 10px 0px 0px 0px;
+        height: 78px;
+        width: 63px;
+    }
+    .secondRowRight
+    {
+        display: none;
+    }
+    .secondStraightLine
+    {
+        width: 60%;
+        margin: auto;
+        border: 1px solid black;
+    }
+    
+    .thirdRow
+    {
+        height: 3090px;
+        margin: 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+    
+    .thirdRowBoxOne
+    {
+            padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        width: 100%;
+        height: 530px;
+    }
+    .thirdRowBoxOne>h1
+    {
+        color: white;
+        font-size: 100px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxOne>h2
+    {
+        color: white;
+        font-size: 62px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 2px 0px;
+    }
+    .thirdRowBoxOne>p
+    {
+            color: white;
+        font-size: 39px;
+        /* font-weight: 400; */
+        word-spacing: 1px;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .thirdRowBoxTwo
+    {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 10px 0px 0px;
+        display: block;
+        float: none;
+        margin: auto;
+        height: 1811px;
+        width: 100%;
+        display: block;
+    }
+    .thirdRowBoxTwo>h1
+    {
+        color: white;
+        font-size: 90px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 0px;
+    }
+    .leftDepartmentList
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+        height: auto;
+    }
+
+    .leftDepartmentList>li
+    {
+        float: none;
+        /* display: block; */
+        padding: 1px 0px;
+
+    }
+    .leftDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+        /* text-align: center; */
+        margin: 0px 0px;
+    }
+    .leftDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .rightDepartmentList 
+    {
+        padding: 0px 0px 0px 230px;
+        color: white;
+    }
+    .rightDepartmentList>li
+    {
+        float: left;
+        /* display: block; */
+        padding: 1px 0px;
+    }
+    .rightDepartmentList>li>a
+    {
+        padding: 0px 0px 0px 0px;
+        color: white;
+        text-decoration: none;
+        font-size: 58px;
+    }
+    .rightDepartmentList>li>a:hover
+    {
+        color: #1abdb4;
+    }
+    .thirdRowBoxThree 
+    {
+        height: 760px;
+        width: 100%;
+        float: left;
+        display: block;
+    }
+    .thirdRowBoxThree>h1
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        padding: 0px 0px 0px 8px;
+    }
+    .photoGallery>img
+    {
+        float: left;
+        display: block;
+        width: 48%;
+        height: 210px;
+        padding: 8px;
+    }
+    .thirdStraightLine
+    {
+       display: none;
+    }
+    .fourthRow
+    {
+        padding: 8px 0px 0px 0px;
+        margin: 0px 0px;
+        height: 126px;
+        width: 100%;
+    }
+    .leftDiv, .rightDiv
+    {
+        display: block;
+        float: none;
+        width: 100%;
+        /* text-align: center; */
+    }
+    .leftDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+    .rightDiv>h2
+    {
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: center;
+        word-spacing: 3px;
+        /* padding: 0px 0px 0px 8px; */
+    }
+
+    .rightDiv>h2>a
+    {
+        color: orangered;
+        text-decoration: none;
+        font-size: 32px;
+        font-weight: 600;
+    }
+
+
+    
+    
+    
+     
+}
+    
+@media only screen and (min-width:1200px) 
+{}

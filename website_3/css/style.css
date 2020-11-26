@@ -1,0 +1,1439 @@
+    *
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';
+}
+/****blueNavBar****/
+.blueNavBar
+{
+        /* padding: 10px; */
+    margin: 0px;
+    background-color: #1e5292;
+    height: 42px;
+    width: 100%;
+}
+.blueNavBarCommon
+{
+    margin: 0px 10%;
+}
+.leftNavBar
+{
+    list-style: none;
+    float: left;
+    padding: 4px 10px;
+    
+}
+.leftNavBar>li
+{
+    float: left;
+    padding: 0px 10px;
+    
+}
+.leftNavBar>li>a
+{
+    display: block;
+    padding: 2px 15px 0px 0px;
+    color: white;
+     text-decoration: none; 
+    font-size: 16px;
+/*    font-weight: 700;*/
+    
+}
+.rightNavBar
+{
+    list-style: none;
+    float: right;
+    padding: 4px 10px;
+}
+.rightNavBar>li
+{
+    float: left;
+    padding: 0px 10px;
+    
+}
+.rightNavBar>li>a
+{
+    display: block;
+    padding: 2px 15px 0px 0px;
+    color: white;
+     text-decoration: none; 
+    font-size: 16px;
+/*    font-weight: 700;*/
+}
+.rightNavBar>li>a>img
+{
+    padding: 3px 0px 0px 0px;
+    height: 24px;
+    width: 30px;
+}
+
+/*****navBar*****/
+.navBar
+{
+    background-color: white;
+/*    overflow: hidden;*/
+/*    width: 100%;*/
+    height: 70px;
+    padding: 0px;
+    margin: 0px 10%;
+}
+.navBarImg
+{
+    display: block;
+    float: left;
+    width: 20%;
+}
+.navBarList
+{
+    display: block;
+    float: left;
+    width: 80%;
+}
+.navBarImg>img
+{
+    padding: 10px;
+    height: 50px;
+    width: 225px;  
+}
+.navBarList>ul
+{
+    list-style: none;
+    float: right;
+    padding: 10px;
+}
+.navBarList>ul>li
+{
+    float: left;
+}
+.navBarList>ul>li>a
+{
+    display: block;
+    padding: 12px 12px;
+    color: #337ab7;
+    text-decoration:none;
+    font-size: 15px;
+    font-weight: 700;
+}
+.navBarList>ul>li>a:hover
+{
+    color: #1dcac7;
+}
+.navBarList>ul>li>img
+{
+    padding: 7px 12px 0px 0px;
+    /* margin: 10px; */
+    height: 28px;
+    width: 30px; 
+}
+
+.overLay
+{
+    background-image: linear-gradient(to bottom right, #9E9E9E, #9E9E9E);
+    height: 35px;
+    opacity: 0.2;
+    position: absolute;
+    width: 100%;
+}
+.appointment
+{
+    background-color:#23b3b3;
+    padding: 5px;
+}
+.appointment:hover
+{
+    background-color:#1e5292 ;
+    color: white;
+}
+.bannerF123
+{
+    height: 908px;
+    width: 100%;
+}
+.bannerImg
+{
+    background-image: url(../image/Doctors-PNG.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:660px;
+    position: relative;
+/*    background-attachment: fixed*/
+}
+.overLay
+{
+    background-image: linear-gradient(to bottom right, #413a3a, #414137);
+    height: 660px;
+    opacity: 0.4;
+    position: absolute;
+    width: 100%;
+}
+.container>h1
+{
+    margin: 250px 350px;
+    padding: 0px;
+    font-size: 48px;
+    color: white;
+    font-weight: 600;
+    display: block;
+    text-align: center;
+    position: absolute;
+}
+.displayFloat
+{
+    overflow: hidden;
+    position: absolute;
+    margin-top: -30px;
+    width: 70%;
+    left: 15%;
+    height: 310px;
+}
+
+.F1, .F2, .F3
+{
+    height:278px;
+    float:left;
+    width:33.33%;
+}
+.F1
+{
+    background-color: #1abdb4;
+}
+.F2
+{
+    background-color: #1c5cb7;
+}
+.F3
+{
+    background-color: #2b30ad;
+}
+.F123
+{
+    margin: 0px;
+    padding: 40px;
+}
+.image
+{
+    margin: auto;
+    padding: 0px;
+    height: 50px;
+    width: 50px;
+}
+.F123>h1
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 500; 
+    margin:0px;
+    padding: 0px;
+}
+.F123>p
+{
+    color:gainsboro;
+    font-size: 15px;
+    margin:0px;
+    padding: 0px;
+}
+/*
+.F123>h1
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 500; 
+    margin:0px;
+    padding: 0px;
+}
+*/
+/*
+.F123>p
+{
+    color:white;
+    font-size: 15px;
+    margin:0px;
+    padding: 0px;
+}
+*/
+/*
+.F123>h1
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 500; 
+    margin:0px;
+    padding: 0px;
+}
+*/
+/*
+.F123>p
+{
+    color:white;
+    font-size: 15px;
+    margin:0px;
+    padding: 0px;
+}
+*/
+.F1>button
+{
+    color: white;
+    border: none;
+    background-color:#1abdb4 ;
+}
+.F123>button>a
+{
+   text-decoration: none;
+    padding: 4px 0px;
+    font-size: 19px;
+    color: white;
+    margin: -2px;
+}
+.fisrtContainer
+{
+        height: 270px;
+    width: 100%;
+    padding: 70px 0px;
+    /* margin: 0px;*/
+}
+.fisrtContainer>h4
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: #9f9da5;
+/*    margin: auto;*/
+    padding: 0px;
+/*    align-content: center;*/
+    text-align: center;
+}
+.fisrtContainer>h1
+{
+    font-size: 70px;
+    font-weight: 500;
+    color: #1abdb4;
+    margin: auto;
+    padding: 0px;
+/*    align-content: center;*/
+    text-align: center;
+}
+.fisrtContainer>img
+{
+        width: 310px;
+    height: 160px;
+    /* margin: auto; */
+    padding: 0px 0px 0px 600px;
+    /* align-content: center; */
+    /* text-align: center;*/
+}
+.secondContainer
+{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+.C1, .C2, .C3
+{
+    float: left;
+    width: 33.33%
+}
+.commonContainer>img
+{
+    margin: auto;
+    display: block;
+    padding: 0px;
+    height: 150px;
+    width: 190px;
+    /* text-align: center; */   
+}
+.commonContainer>h1
+{
+    color: #588bf3f2;
+    font-size: 26px;
+    font-weight: 500;
+    text-align: center;
+}
+.commonContainer>p
+{
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+/*
+.backgroundBannerImg
+{
+    padding: 0px;
+    margin: 0px;
+    height: 700px;
+    width: 100%;
+}
+*/
+.backgroundBannerImg
+{
+    background-image: url(../image/backgroundDoctors.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height:430px;
+    position: relative;
+    background-attachment: fixed
+}
+.appointmentOverLay
+{
+    background-image: linear-gradient(to bottom right, #141ab9, #0e15e2);
+    height: 430px;
+    opacity: 0.48;
+    position: absolute;
+    width: 100%;
+}
+.getAppointment
+{
+padding: 130px 0px 0px 218px;
+    /* margin: auto; */
+    position: absolute;
+    /* display: block; */
+}
+.getAppointment>img
+{
+    padding: 0px;
+    margin: auto;
+    display: block;
+    height: 80px;
+    width: 76px;
+    
+}
+.getAppointment>h1
+{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-size: 46px;
+    font-weight: 600;
+    text-align: center;
+    /* position: absolute;*/
+}
+.getAppointment>p
+{
+margin: 0px;
+    color: #f9f9a9;
+    font-size: 16px;
+    font-weight: 200;
+    text-align: center;
+}
+.getAppointment>button
+{
+    padding: 13px;
+    margin: auto;
+    display: block;
+    border-radius: 1px;
+/*    background-color: #4575bd;*/
+}
+.getAppointment>button>a
+{
+    padding: 0px;
+    margin: 0px;
+    color: #335cd4;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    /* text-align: center; */
+}
+.department
+{
+    overflow: hidden;
+    padding: 0px 0px;
+    margin: 50px;
+}
+.leftDepartment
+{
+    height: 500px; 
+    float: left;
+    width: 18%;
+/*    border: 1px solid red;*/
+    padding: 30px 30px;
+        background-color: #20247d;
+
+
+}
+.leftDepartment>h1
+{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+}
+.leftDepartment>ul
+{
+    list-style: none;
+    float: left;
+}
+.leftDepartment>ul>li
+{
+font-size: 21px;
+    font-weight: 400;
+    padding: 2px;
+}
+.leftDepartment>ul>li>a
+{
+    text-decoration: none;
+}
+.leftDepartment>ul>li>a>h3
+{
+    font-size: 13px;
+    font-weight: 400;
+    color: white;
+/*    text-decoration: none;*/
+}
+
+.leftDepartment>ul>li>a>h3:hover
+{
+/*    background-color: cyan;*/
+    color:cornflowerblue;
+}
+.leftDepartmentButton
+{
+    padding: 395px 0px 0px 20px;
+
+}
+.leftDepartmentButton>a
+{
+/*display: block;*/
+    padding: 12px 12px;
+    /* margin: 15px 0px; */
+    color: WHITE;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid gray;
+    /* border-color: gray; */  
+}
+.leftDepartmentButton>a:hover
+{
+    background-color: cyan;
+    color: #20247d;
+}
+.rightDepartment
+{
+height: 560px;
+    padding: 0px 0px 0px 10px;
+    float: left;
+    width: 77%;
+/*     border: 1px solid black;*/
+}
+.rightDepertmentHeader
+{
+    margin: 0px;
+    padding: 30px 30px;
+}
+.rightDepertmentHeader>h5
+{
+padding: 0px;
+    margin: 0px;
+    color: gray;
+/*     font-size: 20px; */
+    font-weight: 500;
+}
+.rightDepertmentHeader>h1
+{
+    padding: 0px;
+    margin: 0px;
+    color: aqua;
+    font-size: 34px;
+    font-weight: 0px;
+}
+
+.leftFloatBox, .rightFloatBox
+{
+    height: 429px;
+    float: left;
+    width: 44%;
+    /* border: 1px solid black; */
+    padding: 0px 31px;
+}
+.commonFloat
+{
+    padding: 1px;
+    margin: 0px;
+    position: relative;
+}
+.commonFloat>img
+{
+    padding: 0px;
+    margin: 0px;
+    height: 270px;
+    width: 480px;
+    position: relative;
+}
+.commonFloat>h1
+{
+    padding: 8px 0px 0px 0px;
+    margin: 0px;
+    color: #23b3b3;
+    font-size: 24px;
+/*     font-weight: 500;*/
+}
+.commonFloat>p
+{
+   padding: 0px 0px 10px 0px;
+    margin: 0px;
+    color: #827474;
+    font-size: 14px;
+/*     font-weight: 500;*/
+}
+.commonFloat>button
+{
+    padding: 5px 0px 5px 0px;
+    margin: 0px;
+    background-color: white;
+    border: 1px solid #23b3b3;
+}
+.commonFloat>button>a
+{
+padding: 7px 15px 6px 12px;
+    margin: 0px;
+    color: #827474;
+    font-size: 14px;
+/*     font-weight: 500; */
+    text-decoration: none;
+}
+
+.commonFloat>button>a:hover
+{
+    background-color:#23b3b3;
+    color: white;
+}
+.commonFloatIcon>img
+{
+    overflow: hidden;
+    position: absolute;
+    margin-top: -60px;
+    left: -16px;
+    height: 72px;
+    width: 80px;
+}
+.prettyGirl
+{
+    padding: 0px;
+    margin: 0px 0px;
+    height: 500px;
+}
+.leftSide, .rightSide
+{
+    height: 500px;
+    float: left;
+    width: 50%; 
+}
+.leftSide>img
+{
+    padding: 0px;
+    margin: 0px;
+    height: 500px;
+    width:100%;
+}
+.rightSide
+{
+    background-color: #1e5292;
+}
+.commonRightSide
+{
+    padding: 140px 80px;
+    margin: 0px;
+}
+.commonRightSide>h5
+{
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #9f9da5;
+}
+.commonRightSide>h1
+{
+   padding: 0px;
+    margin: 0px;
+    font-size: 50px;
+/*     font-weight: 500; */
+    color: #ffffffe3;
+}
+.commonRightSide>p
+{
+    padding: 12px 0px;
+    margin: 0px;
+    font-size: 15px;
+/*     font-weight: 500; */
+    color: #ffffffe3;
+}
+.commonRightSide>button
+{
+    padding: 16px 0px;
+/*     margin: 25px 20px; */
+    background-color: #23b3b3;
+/*     border: 1px solid #23b3b3; */
+    border: none;
+}
+
+.commonRightSide>button>a
+{
+/*     padding: 7px 15px 6px 12px; */
+    margin: 0px;
+    color: white;
+    font-size: 16px;
+/*     font-weight: 500; */
+    text-decoration: none;
+        padding: 17px 38px;
+}
+
+.commonRightSide>button>a:hover
+{
+    background-color:white;
+    color: #23b3b3;
+}
+.doctors
+{
+        margin: 50px;
+    padding: 0px;
+    overflow: hidden;
+    height: 600px;
+}
+.doctor1, .doctor2, .doctor3, .doctor4
+{
+    margin:0px ;
+    padding:0px ;
+    float: left;
+    width: 25%;
+}
+.commonDoctor
+{
+        margin: 0px;
+    padding: 50px 50px;
+/*    border: 1px solid red;*/
+    height: 600px;
+/*    display: block;*/
+    margin: 0px 0px;
+     position: relative;
+}
+.commonDoctor>img
+{
+    margin: 0px;
+    padding: 0px;
+    height: 280px;
+    width: 305px;
+   
+}
+.commonDoctorsDetails
+{
+   
+        padding: 28px 0px;
+    text-align: center;
+    background-color: #1e58a0;
+    position: absolute;
+    margin: -8px 0px;
+    
+}
+.commonDoctorsDetails>h2
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+    /* font-weight: 500; */
+    color: white;
+}
+
+.commonDoctorsDetails>p
+{
+margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    color: #ffffff8f;
+}
+.commonDoctorsDetails>h3
+{
+    margin: 0px;
+    padding: 7px 0px;
+    font-size: 13px;
+    font-weight: 500;
+    /*border: 1px solid black;*/
+    color: azure; 
+}
+.commonDoctorsDetails:hover
+{
+    background-color: #23b3b3;
+    
+}
+
+.medipol
+{
+margin: 0px 100px 0px 100px;
+    padding: 0px 0px;
+    height: 100px;
+    /* width: 100%; */
+    background-color: #1e58a0;
+}
+.medi1
+{
+    margin: 0px;
+    padding: 11px 30px;
+    width: 40%;
+    float: left;
+/*    border: 1px solid #e3d3d3;*/
+}
+.medi1>h3
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #b19d9d;
+}
+.medi1>h1
+{
+      margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+    /* font-weight: 500; */
+    color: white;
+}
+
+.medi2, .medi3, .medi4
+{
+/*margin: 50px; */
+    padding: 0px 54px;
+width: 133px;
+    float: left;
+/*    border: 1px solid #eadddd;*/
+}
+.commoneMedi>h3
+{
+ margin: 0px;
+    padding: 17px 0px;
+    font-size: 14px;
+    /* font-weight: 500; */
+    color: white;
+    text-align: center;
+}
+.commoneMedi>h1
+{
+    margin: 0px;
+    padding: 0px;
+    font-size: 29px;
+     font-weight: 500; 
+    color: white;
+    text-align: center;
+}
+/*start*/
+.cerasoulContainer
+{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    /* width: 100%; */
+    height: 432px;
+    /* left: 13%; */
+}
+
+
+.leftContainer
+{
+    padding: 0px 0px;
+    height: 432px;
+    float: left;
+    width: 40%;
+    /* padding: 0px 29px; */
+    /* padding: 0px 59px; */
+    margin: 0px 30px 0px 110px;
+    box-shadow: 0px 1px 20px 0px #524848;
+}
+.rightContainer
+{
+    padding: 0px 0px;
+    height: 432px;
+    float: left;
+    width: 40%;
+    /* padding: 0px 29px; */
+    /* padding: 0px 59px; */
+    margin: 0px 100px 0px 76px;
+    box-shadow: 0px 1px 20px 0px #524848;
+}
+.commonContainer
+{
+    margin: auto;
+    display: block;
+    padding: 0px 0px;
+    height: 432px;
+    text-align: center;
+}
+
+.commonContainer>img
+{
+    text-align: center;
+    height: 210px;
+    /* display: block; */
+    width: 210px;
+    /* margin: auto; */
+    /* padding: 0px 170px; */
+}
+.commonContainer>h1
+{
+    /* text-align: center; */
+    font-size: 32px;
+    font-weight: 900;
+    color: black;
+    margin: 10px 0px;
+    padding: 0px 0px;
+}
+.commonContainer>h2
+{
+text-align: center; */
+    font-size: 20px;
+    color: #1abdb4;
+    font-weight: 500;
+    margin: 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+.commonContainer>p
+{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+/*end*/
+
+.straightLine
+{
+    border: .5px solid black;
+    width: 99.9%;
+    margin: 50px 0px;
+}
+
+.logo
+{
+    margin: 0px 10%;
+    padding: 0px 0px;
+    height: 100px;
+}
+
+.logo1, .logo2, .logo3, .logo4, .logo5
+{
+    display: block;
+    margin: auto;
+    float: left;
+    width: 20%;
+    padding: 0px 0px;
+}
+
+.commonLogo>img
+{
+height: 100px;
+    width: 220px;
+}
+
+.blueBox
+{
+    width:100%;
+    background-color: #4575bd;
+    height: 479px;
+}
+.blockBox
+{
+    display: block;
+    margin: 0px 10%;
+/*    border: 0.5px solid red;*/
+}
+.firstRow
+{
+    padding: 10px 0px 0px 0px;
+    width: 100%;
+        height: 100px;
+}
+.forAppointment
+{
+   display: block;
+    float: left;
+    width: 30%;
+    height: 100px;
+}
+.forWhatsapp
+{
+    display: block;
+    float: left;
+    width: 30%;
+    height: 100px;
+}
+
+.firstRowCommonLogo
+{
+display: block;
+/*    float: left;*/
+}
+.firstRowCommonLogo>img
+{
+    width: 50px;
+    height: 70px;
+    display: block;
+    float: left;
+}
+
+.firstRowCommonLogo>h1
+{
+font-size: 20px;
+    font-weight: 500;
+    color: antiquewhite;
+    text-align: left;
+    display: block;
+    float: left;
+    margin-left: 25px;
+}
+.firstRowCommonLogo>h2
+{
+    font-size: 20px;
+    font-weight: 500;
+    color: antiquewhite;
+    text-align: left;
+    /* margin-left: 25px; */
+    display: block;
+    float: left;
+    margin-left: 24px;
+}
+.forShutterHealth
+{
+    display: block;
+    float: right;
+    width: 20%;
+    height: 100px;
+}
+.forShutterHealth>img
+{
+    width: 194px;
+    height: 60px;
+    display: block;
+    float: right;
+}
+
+.firstStraightLine
+{
+    width: 100%;
+    /* height: 100px; */
+    /* padding: 10px 0px; */
+    border: .5px solid black;
+}
+
+.secondRow
+{
+    width: 100%;
+    height: 70px;
+    padding: 10px 0px 0px 0px;
+}
+.secondRowLeft, .secondRowRight
+{
+    display: block;
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+
+.secondRowLeftFirst
+{
+    display: block;
+    width: 38%;
+    float: left;
+}
+.secondRowLeftSecond
+{
+    display: block;
+    width: 62%;
+    float: left;
+}
+.secondRowLeftFirst>h1
+{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    display: block;
+    color: antiquewhite;
+    padding: 10px 0px 0px 0px;
+}
+
+.logoList
+{
+    list-style: none;
+    float: left;
+    padding: 4px 3px;
+}
+.logoList>li
+{
+    float: left;
+    padding: 0px 9px;
+    
+}
+.logoList>li>a
+{
+    display: block;
+    padding: 2px 15px 0px 0px;
+    color: white;
+     text-decoration: none; 
+    font-size: 16px;
+    font-weight: 700;
+}
+.logoList>li>a>img
+{
+    padding: 10px 0px 0px 0px;
+    height: 30px;
+    width: 26px;
+}
+
+.secondRowRightFirst
+{
+    display: block;
+    width: 38%;
+    float: left;
+}
+.secondRowRightSecond
+{
+    display: block;
+    width: 62%;
+    float: left;
+}
+.secondRowRightFirst>h1
+{
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    display: block;
+    color: antiquewhite;
+   padding: 10px 0px 0px 120px;
+}
+
+.secondRowRightFirst input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.secondStraightLine
+{
+    border: .5px solid black;
+    width: 99.9%;
+    margin: 0px 0px;
+}
+
+.thirdRow
+{
+    height: 242px;
+    margin: 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+
+.thirdRowBoxOne,.thirdRowBoxTwo, .thirdRowBoxThree
+{
+    height: 230px;
+    width: 32.8%;
+    float: left;
+    display: block;
+}
+.thirdRowBoxOne
+{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 10px 0px 0px;
+}
+.thirdRowBoxOne>h1
+{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+}
+.thirdRowBoxOne>h2
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px 0px 2px 0px;
+}
+.thirdRowBoxOne>p
+{
+    color: white;
+    font-size: 13px;
+/*    font-weight: 400;*/
+    word-spacing: 1px;
+    text-align: left;
+    padding: 0px 0px 15px 0px;
+}
+.thirdRowBoxTwo
+{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 10px 0px 0px;
+}
+.thirdRowBoxTwo>h1
+{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+}
+/**/
+.leftDepartmentList, .rightDepartmentList
+{
+    display: block;
+    width:40%;
+    float: left;  
+    
+}
+.leftDepartmentList
+{
+/*    list-style: none; */
+    padding: 0px 0px 0px 19px;
+    color: white;
+}
+.rightDepartmentList
+{
+/*    list-style: none; */
+    padding: 0px 0px 0px 14px;
+    color: white;
+}
+.leftDepartmentList>li
+{
+    float: left;
+    /* display: block; */
+    padding: 1px 0px;
+    
+}
+.leftDepartmentList>li>a
+{
+    /* display: block; */
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+/*    font-weight: 700;*/
+}
+.leftDepartmentList>li>a:hover
+{
+    color: #1abdb4;
+}
+.rightDepartmentList>li
+{
+    float: left;
+    /* display: block; */
+    padding: 1px 0px;
+    
+}
+.rightDepartmentList>li>a
+{
+    /* display: block; */
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    /*font-weight: 700;*/
+}
+.rightDepartmentList>li>a:hover
+{
+    color: #1abdb4;
+}
+.thirdRowBoxThree>h1
+{
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px 0px 0px 8px;
+}
+.photoGallery>img
+{
+    float: left;
+    display: block;
+    width: 29%;
+    height: 58px;
+    padding: 8px;
+}
+.thirdStraightLine
+{
+    border: .5px solid black;
+    width: 99.9%;
+    margin: 0px 0px;
+}
+.fourthRow
+{
+    padding: 8px 0px 0px 0px;
+    margin: 0px 0px;
+    height: 26px;
+    width: 100%;
+}
+.leftDiv, .rightDiv
+{
+    display: block;
+    float: left;
+    width: 50%;
+}
+.leftDiv>h2
+{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    word-spacing: 3px;
+/*    padding: 0px 0px 0px 8px;*/
+}
+.rightDiv>h2
+{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: right;
+    word-spacing: 3px;
+/*    padding: 0px 0px 0px 8px;*/
+}
+
+.rightDiv>h2>a
+{
+    color: orangered;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.secondRowRightFirst button[type=submit]
+{
+    color: aqua;
+    
+}
+
+/*
+.displayFloat
+{
+    overflow: hidden;
+    position: absolute;
+    margin-top: -30px;
+    width: 70%;
+    left: 15%;
+    height: 310px;
+}
+
+.F1, .F2, .F3
+{
+    height:278px;
+    float:left;
+    width:33.33%;
+}
+*/
+
+
+
+/*
+.rightDepartment
+{
+    padding: 0px;
+    margin: auto;
+    height: 500px;
+    width: 78%;
+    border: 1px solid black;
+}
+*/
+
+
+
+
+
+
+
+
+/*
+.displayFloat
+{
+   overflow: hidden;
+   padding: 0px 0px;
+   margin: 50px;
+}
+
+.F1, .F2, .F3, .F4, .F5, .F6
+{
+    height:200px ;
+    float:left;
+    width:33.33%;
+    
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.F2>button>a
+{
+    text-decoration: none;
+    padding: 0px 0px;
+    background-color:#1c5cb7 ;
+}
+.F3>button>a
+{
+    text-decoration: none;
+    padding: 0px 0px;
+    background-color:#2b30ad ;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
